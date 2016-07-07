@@ -21,13 +21,13 @@ class Animalsounds:
     def voice_client(self, server):
         return self.bot.voice_client_in(server)
 
-    @commands.group(pass_context=True, no_pm=True, name='voice', aliases=['vc'])
+    @commands.group(pass_context=True, no_pm=True, name='voice', aliases=['vc'],hidden=True)
     async def _vc(self, context):
         """[join/leave]"""
         if context.invoked_subcommand is None:
             await send_cmd_help(context)
 
-    @_vc.command(hidden=True, pass_context=True, no_pm=True, name='join', aliases=['connect'])
+    @_vc.command(hidden=True, pass_context=True, no_pm=True, name='join', aliases=['connect'],hidden=True)
     #@checks.serverowner_or_permissions()
     async def _join(self, context):
         """Joins your voice channel"""
@@ -37,7 +37,7 @@ class Animalsounds:
         if not self.voice_connected(server):
             await self.bot.join_voice_channel(channel)
 
-    @_vc.command(hidden=True, pass_context=True, no_pm=True, name='leave', aliases=['disconnect'])
+    @_vc.command(hidden=True, pass_context=True, no_pm=True, name='leave', aliases=['disconnect'],hidden=True)
     #@checks.serverowner_or_permissions()
     async def _leave(self, context):
         """Leaves your voice channel"""
@@ -54,13 +54,13 @@ class Animalsounds:
         if self.audio_player:
             self.audio_player.stop()
 
-    @commands.command(no_pm=True, pass_context=True, name='johncena', aliases=['cena'])
+    @commands.command(no_pm=True, pass_context=True, name='johncena', aliases=['cena'],hidden=True)
     async def _cena(self, context):
         animal = 'cena'
         kill = 8
         await self.sound_play(context, animal,kill)
 
-    @commands.command(no_pm=True, pass_context=True, name='nootnoot', aliases=['pingu'])
+    @commands.command(no_pm=True, pass_context=True, name='nootnoot', aliases=['pingu'],hiddent=True)
     async def _meow(self, context):
         animal = 'pingu'
         kill = 1
