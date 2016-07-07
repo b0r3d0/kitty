@@ -1952,3 +1952,49 @@ You can also type ?help category for more info on a category.
 
 2016-07-06 20:42:02.877000 #general @Leavism#2011: Nice
 2016-07-06 20:45:53.981000 #general @Leavism#2011: alright im off to work
+2016-07-07 02:19:04.973000 #general @Leavism#2011: ?help
+2016-07-07 02:19:05.141000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+MentionTracker:
+  mention    Saves your mentions when you're not online.
+  mentionset Manage mentiontracker settings
+Owner:
+  load       Loads a module
+  reload     Reloads a module
+  logger     Toggles logging for a channel
+  uptime     Shows Simbad Bot's uptime
+  modset     Manages server administration settings.
+  shutdown   Shuts down Simbad Bot
+  set        Changes Simbad Bot's global settings.
+  unload     Unloads a module
+Profile:
+  profile    Accounts operations
+  proset     Profile settings
+\u200bNo Category:
+  help       Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-07 02:19:08.512000 #general @Leavism#2011: ?unload all
+2016-07-07 02:19:08.792000 #general @Test-Bot#5202: All cogs are now unloaded.
+2016-07-07 02:19:10.027000 #general @Leavism#2011: ?help
+2016-07-07 02:19:10.177000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Owner:
+  load     Loads a module
+  reload   Reloads a module
+  logger   Toggles logging for a channel
+  uptime   Shows Simbad Bot's uptime
+  modset   Manages server administration settings.
+  shutdown Shuts down Simbad Bot
+  set      Changes Simbad Bot's global settings.
+  unload   Unloads a module
+\u200bNo Category:
+  help     Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```

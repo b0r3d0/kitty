@@ -10,11 +10,11 @@
     "cogs.image" : false,
     "cogs.info" : false,
     "cogs.logger" : false,
-    "cogs.mention" : true,
+    "cogs.mention" : false,
     "cogs.mentiontracker" : true,
     "cogs.mod" : false,
     "cogs.owner" : false,
-    "cogs.profile" : true,
+    "cogs.profile" : false,
     "cogs.rss" : true,
     "cogs.streams" : false,
     "cogs.trivia" : false
