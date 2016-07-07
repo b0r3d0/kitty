@@ -1,0 +1,2 @@
+#Badmis Discord Bot
+This is a bot for my game community to use on Discord. It's not meant to be shared with the public, but since Github has made private repos a premium feature, I'll have to publish it as though it was public for now. I've also included a license just in case someone found my bot, even though they're not supposed to.

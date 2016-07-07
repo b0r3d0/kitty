@@ -1,0 +1,1954 @@
+2016-07-06 00:44:26.933000 #general @Leavism#2011: ?channellogger
+2016-07-06 00:44:27.057000 #general @Test-Bot#5202: Logging enabled for #general
+2016-07-06 00:44:47.276000 #general @Leavism#2011: what
+2016-07-06 01:55:58.629000 #general @Leavism#2011: ?logger
+2016-07-06 01:55:58.799000 #general @Test-Bot#5202: Logging enabled for #general
+2016-07-06 01:56:00.222000 #general @Leavism#2011: afdfdsasfd
+2016-07-06 01:56:00.414000 #general @Leavism#2011: fds
+2016-07-06 01:56:00.614000 #general @Leavism#2011: afds
+2016-07-06 01:56:00.830000 #general @Leavism#2011: fdas
+2016-07-06 01:56:01.013000 #general @Leavism#2011: dfa
+2016-07-06 01:56:01.202000 #general @Leavism#2011: fad
+2016-07-06 01:56:01.302000 #general @Leavism#2011: fa
+2016-07-06 01:56:01.935000 #general @Leavism#2011: dafd
+2016-07-06 02:00:24.547000 #general @Leavism#2011: ?load mentiontracker
+2016-07-06 02:00:24.854000 #general @Test-Bot#5202: Module enabled.
+2016-07-06 02:00:27.774000 #general @Leavism#2011: ?help
+2016-07-06 02:00:27.978000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Downloader:
+  cog        Additional cogs management
+Info:
+  simbad     Provides a link to our website and forums.
+  userinfo   Shows users's informations
+  serverinfo Shows server's informations
+  mvp        Indicates whether a CMDR has achieved MVP (ex. ?mvp Leavism)
+MentionTracker:
+  mentionset Manage mentiontracker settings
+  mention    Saves your mentions when you're not online.
+Owner:
+  set        Changes Simbad Bot's global settings.
+  unload     Unloads a module
+  load       Loads a module
+  logger     Toggles logging for a channel
+  reload     Reloads a module
+  modset     Manages server administration settings.
+  uptime     Shows Simbad Bot's uptime
+  shutdown   Shuts down Simbad Bot
+Profile:
+  proset     Profile settings
+  profile    Accounts operations
+\u200bNo Category:
+  help       Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 02:00:34.376000 #general @Leavism#2011: ?mentionset
+2016-07-06 02:00:34.512000 #general @Test-Bot#5202: ```
+?mentionset
+
+Manage mentiontracker settings
+
+Commands:
+  limit Number of minutes to wait in between saving mentions.
+
+Type ?mentionset command for more info on a command.
+You can also type ?mentionset category for more info on a category.
+```
+2016-07-06 02:00:34.780000 #general @Test-Bot#5202: ```MENTION_TIME_LIMIT: 5
+```
+2016-07-06 02:00:47.206000 #general @Leavism#2011: ?mention
+2016-07-06 02:00:47.407000 #general @Test-Bot#5202: ```
+?mention
+
+Saves your mentions when you're not online.
+
+Commands:
+  register   Register yourself for mention tracking
+  read       Read all mentions since you've been away.
+  unregister Unregister yourself from mention tracking
+
+Type ?mention command for more info on a command.
+You can also type ?mention category for more info on a category.
+```
+2016-07-06 02:00:55.188000 #general @Leavism#2011: ?mention register
+2016-07-06 02:00:55.363000 #general @Test-Bot#5202: @Leavism, thanks for registering.
+2016-07-06 02:00:58.764000 #general @Leavism#2011: ?mention read
+2016-07-06 02:00:58.906000 #general @Test-Bot#5202: You have no mentions.
+2016-07-06 02:01:40.549000 #general @b0r3d0#1378: @Leavism
+2016-07-06 02:01:44.386000 #general @b0r3d0#1378: @Leavism
+2016-07-06 02:01:49.088000 #general @Leavism#2011: ?mention read
+2016-07-06 02:01:49.456000 #general @Test-Bot#5202: You have no mentions.
+2016-07-06 02:02:04.133000 #general @b0r3d0#1378: @Leavism
+2016-07-06 02:02:08.374000 #general @b0r3d0#1378: @Leavism yoyoy
+2016-07-06 02:02:11.837000 #general @b0r3d0#1378: @Leavism yoyoyoyooyoyoyo
+2016-07-06 02:05:05.278000 #general @b0r3d0#1378: @Leavism hey there kid
+2016-07-06 03:30:09.625000 #general @Leavism#2011: ?mention read
+2016-07-06 03:30:09.945000 #general @Test-Bot#5202: You have no mentions.
+2016-07-06 03:47:15.538000 #general @b0r3d0#1378: @Leavism hey there buddy
+2016-07-06 03:47:23.071000 #general @b0r3d0#1378: @Leavism How do you do
+2016-07-06 03:47:30.298000 #general @b0r3d0#1378: Hey man test @Leavism message here
+2016-07-06 03:47:38.269000 #general @b0r3d0#1378: AWWWWWWWW YEAH @Leavism
+2016-07-06 03:52:13.857000 #general @Leavism#2011: ?load rss
+2016-07-06 03:52:14.155000 #general @Test-Bot#5202: Module enabled.
+2016-07-06 03:52:16.898000 #general @Leavism#2011: ?help
+2016-07-06 03:52:37.939000 #general @Leavism#2011: ?help
+2016-07-06 03:52:38.115000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Downloader:
+  cog        Additional cogs management
+Info:
+  simbad     Provides a link to our website and forums.
+  userinfo   Shows users's informations
+  serverinfo Shows server's informations
+  mvp        Indicates whether a CMDR has achieved MVP (ex. ?mvp Leavism)
+Owner:
+  set        Changes Simbad Bot's global settings.
+  unload     Unloads a module
+  load       Loads a module
+  logger     Toggles logging for a channel
+  reload     Reloads a module
+  modset     Manages server administration settings.
+  uptime     Shows Simbad Bot's uptime
+  shutdown   Shuts down Simbad Bot
+Profile:
+  proset     Profile settings
+  profile    Accounts operations
+RSS:
+  rss        RSS feed stuff
+\u200bNo Category:
+  help       Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 03:52:42.833000 #general @Leavism#2011: ?unload info
+2016-07-06 03:52:43.021000 #general @Test-Bot#5202: Module disabled.
+2016-07-06 03:52:46.710000 #general @Leavism#2011: ?unload downloader
+2016-07-06 03:52:46.923000 #general @Test-Bot#5202: Module disabled.
+2016-07-06 03:52:49.081000 #general @Leavism#2011: ?help
+2016-07-06 03:52:49.162000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Owner:
+  set      Changes Simbad Bot's global settings.
+  unload   Unloads a module
+  load     Loads a module
+  logger   Toggles logging for a channel
+  reload   Reloads a module
+  modset   Manages server administration settings.
+  uptime   Shows Simbad Bot's uptime
+  shutdown Shuts down Simbad Bot
+Profile:
+  proset   Profile settings
+  profile  Accounts operations
+RSS:
+  rss      RSS feed stuff
+\u200bNo Category:
+  help     Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 03:52:50.692000 #general @Leavism#2011: ?rss
+2016-07-06 03:52:50.833000 #general @Test-Bot#5202: ```
+?rss
+
+RSS feed stuff
+
+Commands:
+  list     List currently running feeds
+  force    Forces a feed alert
+  add      Add an RSS feed to the current channel
+  template Set a template for the feed alert
+  remove   Removes a feed from this server
+
+Type ?rss command for more info on a command.
+You can also type ?rss category for more info on a category.
+```
+2016-07-06 03:52:55.588000 #general @Leavism#2011: ?rss add
+2016-07-06 03:52:55.725000 #general @Test-Bot#5202: ```
+?rss add <name> <url>
+
+Add an RSS feed to the current channel
+
+```
+2016-07-06 03:53:26.749000 #general @Leavism#2011: ?rss add TestingLeavism https://www.reddit.com/r/TestingLeavism/.rss
+2016-07-06 03:53:27.553000 #general @Test-Bot#5202: Feed "TestingLeavism" added. Modify the template using rss template
+2016-07-06 03:53:34.373000 #general @Leavism#2011: ?rss force
+2016-07-06 03:53:34.609000 #general @Test-Bot#5202: ```
+?rss force <feed_name>
+
+Forces a feed alert
+
+```
+2016-07-06 03:53:46.023000 #general @Leavism#2011: ?rss force TestingLeavism
+2016-07-06 03:53:46.461000 #general @Test-Bot#5202: **TestingLeavism**:
+fsdsdsdfadf
+2016-07-06 03:53:54.660000 #general @Leavism#2011: ?rss template
+2016-07-06 03:53:54.879000 #general @Test-Bot#5202: ```
+?rss template <feed_name> <template>
+
+Set a template for the feed alert
+
+Each variable must start with $, valid variables:
+        author, author_detail, comments, content, contributors, created, create, link, name, published, published_parsed, publisher, publisher_detail, source, summary, summary_detail, tags, title, title_detail, updated, updated_parsed
+
+```
+2016-07-06 03:54:47.017000 #general @Leavism#2011: ?rss template TestingLeavism $title $published $author
+2016-07-06 03:54:47.244000 #general @Test-Bot#5202: Template added successfully.
+2016-07-06 03:54:54.920000 #general @Leavism#2011: ?rss force TestingLeavism
+2016-07-06 03:54:55.293000 #general @Test-Bot#5202: fsdsdsdfadf $published /u/Leavism
+2016-07-06 03:55:14.761000 #general @Leavism#2011: ?rss template TestingLeavism $title $author
+2016-07-06 03:55:16.037000 #general @Test-Bot#5202: Template added successfully.
+2016-07-06 03:56:26.856000 #general @Leavism#2011: ?rss force testingleavism
+2016-07-06 03:56:27.069000 #general @Test-Bot#5202: That feedname doesn't exist.
+2016-07-06 03:56:33.831000 #general @Leavism#2011: ?rss force TestingLeavism
+2016-07-06 03:56:34.320000 #general @Test-Bot#5202: Testing New Thing /u/Leavism
+2016-07-06 04:33:36.300000 #general @Leavism#2011: ?profile
+2016-07-06 04:33:36.489000 #general @Test-Bot#5202: ```
+?profile
+
+Accounts operations
+
+Commands:
+  powerplay  Shows user's powerplay allegiance
+  cmdr       Shows cmdr name of users.
+  assets     Shows assets of user.
+  register   Registers an account at the Simbad profile
+  superpower Shows user's superpower allegiance
+  info       Displays all info from user's profile.
+
+Type ?profile command for more info on a command.
+You can also type ?profile category for more info on a category.
+```
+2016-07-06 04:36:42.577000 #general @Leavism#2011: ?reload profile
+2016-07-06 04:36:42.901000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 04:36:51.753000 #general @Leavism#2011: ?profile
+2016-07-06 04:36:51.852000 #general @Test-Bot#5202: ```
+?profile
+
+Accounts operations
+
+Commands:
+  powerplay  Shows user's powerplay allegiance
+  cmdr       Shows cmdr name of users.
+  assets     Shows assets of user.
+  register   Registers an account at the Simbad profile
+  superpower Shows user's superpower allegiance
+  info       Displays all info from user's profile.
+
+Type ?profile command for more info on a command.
+You can also type ?profile category for more info on a category.
+```
+2016-07-06 04:36:56.706000 #general @Leavism#2011: ?help
+2016-07-06 04:36:56.899000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Owner:
+  set      Changes Simbad Bot's global settings.
+  unload   Unloads a module
+  load     Loads a module
+  logger   Toggles logging for a channel
+  reload   Reloads a module
+  modset   Manages server administration settings.
+  uptime   Shows Simbad Bot's uptime
+  shutdown Shuts down Simbad Bot
+Profile:
+  proset   Profile settings
+  profile  Accounts operations
+RSS:
+  rss      RSS feed stuff
+\u200bNo Category:
+  help     Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 04:37:15.995000 #general @Leavism#2011: ?unload rss
+2016-07-06 04:37:16.214000 #general @Test-Bot#5202: That module file doesn't exist. I will not turn off autoloading at start just in case this isn't supposed to happen.
+2016-07-06 04:37:16.358000 #general @Test-Bot#5202: Module disabled.
+2016-07-06 04:37:18.662000 #general @Leavism#2011: ?help
+2016-07-06 04:37:18.828000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Owner:
+  set      Changes Simbad Bot's global settings.
+  unload   Unloads a module
+  load     Loads a module
+  logger   Toggles logging for a channel
+  reload   Reloads a module
+  modset   Manages server administration settings.
+  uptime   Shows Simbad Bot's uptime
+  shutdown Shuts down Simbad Bot
+Profile:
+  proset   Profile settings
+  profile  Accounts operations
+\u200bNo Category:
+  help     Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 04:50:10.888000 #general @Leavism#2011: ?help
+2016-07-06 04:50:11.213000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Owner:
+  set      Changes Simbad Bot's global settings.
+  unload   Unloads a module
+  load     Loads a module
+  logger   Toggles logging for a channel
+  reload   Reloads a module
+  modset   Manages server administration settings.
+  uptime   Shows Simbad Bot's uptime
+  shutdown Shuts down Simbad Bot
+Profile:
+  proset   Profile settings
+  profile  Accounts operations
+\u200bNo Category:
+  help     Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 04:50:13.137000 #general @Leavism#2011: ?reload profile
+2016-07-06 04:50:13.335000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 04:50:50.651000 #general @Leavism#2011: ?reload profile
+2016-07-06 04:50:50.908000 #general @Test-Bot#5202: That module could not be loaded. Check your console or logs for more information.
+2016-07-06 04:51:12.611000 #general @Leavism#2011: ?reload profile
+2016-07-06 04:51:13.109000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 04:51:20.367000 #general @Leavism#2011: ?profile register
+2016-07-06 04:51:20.503000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 04:51:29.627000 #general @Leavism#2011: ?proset
+2016-07-06 04:51:29.780000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  powerplay  Set powerplay allegiance.
+  emp        Set Empire Navy Rank
+  fed        Set Federal Navy Rank
+  combat     Set combat rank.
+  cmdr       Sets CMDR name of user's profile account
+  superpower Set superpower allegiance.
+  assets     Sets current assets of user's profile account. Do not use commas.
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 04:51:33.431000 #general @Leavism#2011: ?proset combat
+2016-07-06 04:51:33.633000 #general @Test-Bot#5202: ```
+?proset combat <combat_number>
+
+Set combat rank.
+
+1. Harmless
+2. Mostly Harmless
+3. Novice
+4. Competent
+5. Expert
+6. Master
+7. Dangerous
+8. Deadly
+9. Elite
+
+```
+2016-07-06 04:51:37.341000 #general @Leavism#2011: ?proset combat 1
+2016-07-06 04:51:37.521000 #general @Test-Bot#5202: You've set your combat rank to Harmless.http://www.edassets.org/img/pilots-federation/rank-1.png
+2016-07-06 04:51:37.521000 #general @Test-Bot#5202: You've set your combat rank to Harmless.http://www.edassets.org/img/pilots-federation/rank-1.png
+2016-07-06 04:51:57.193000 #general @Leavism#2011: ?proset combat 1
+2016-07-06 04:51:57.421000 #general @Test-Bot#5202: You've set your combat rank to Harmless.http://www.edassets.org/img/pilots-federation/rank-1.png
+2016-07-06 04:52:07.130000 #general @Leavism#2011: ?reload profile
+2016-07-06 04:52:07.374000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 04:52:10.126000 #general @Leavism#2011: ?proset combat 1
+2016-07-06 04:52:10.291000 #general @Test-Bot#5202: You've set your combat rank to Harmless.http://www.edassets.org/img/pilots-federation/rank-1.png
+2016-07-06 04:52:17.677000 #general @Leavism#2011: http://www.edassets.org/img/pilots-federation/rank-1.png
+2016-07-06 04:55:01.457000 #general @Leavism#2011: http://www.edassets.org/img/pilots-federation/rank-1.png
+2016-07-06 05:05:04.195000 #general @Leavism#2011: ?reload profile
+2016-07-06 05:05:04.402000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 05:05:09.793000 #general @Leavism#2011: ?proset combat 1
+2016-07-06 05:05:10.072000 #general @Test-Bot#5202: You've set your combat rank to Harmless.http://www.edassets.org/img/pilots-federation/combat/rank-1-combat.png
+2016-07-06 05:05:10.072000 #general @Test-Bot#5202: You've set your combat rank to Harmless.http://www.edassets.org/img/pilots-federation/combat/rank-1-combat.png
+2016-07-06 05:05:26.727000 #general @Leavism#2011: ?reload profile
+2016-07-06 05:05:26.935000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 05:05:53.267000 #general @Leavism#2011: ?proset combat 3
+2016-07-06 05:05:53.464000 #general @Test-Bot#5202: You've set your combat rank to Novice. 
+http://www.edassets.org/img/pilots-federation/combat/rank-3-combat.png
+2016-07-06 05:05:53.464000 #general @Test-Bot#5202: You've set your combat rank to Novice. 
+http://www.edassets.org/img/pilots-federation/combat/rank-3-combat.png
+2016-07-06 08:32:06.767000 #general @Leavism#2011: ?help
+2016-07-06 08:32:07.101000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Owner:
+  set      Changes Simbad Bot's global settings.
+  unload   Unloads a module
+  load     Loads a module
+  logger   Toggles logging for a channel
+  reload   Reloads a module
+  modset   Manages server administration settings.
+  uptime   Shows Simbad Bot's uptime
+  shutdown Shuts down Simbad Bot
+Profile:
+  proset   Profile settings
+  profile  Accounts operations
+\u200bNo Category:
+  help     Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 08:32:17.664000 #general @Leavism#2011: ?proset
+2016-07-06 08:32:17.839000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  powerplay  Set powerplay allegiance.
+  emp        Set Empire Navy Rank
+  fed        Set Federal Navy Rank
+  combat     Set combat rank.
+  cmdr       Sets CMDR name of user's profile account
+  superpower Set superpower allegiance.
+  assets     Sets current assets of user's profile account. Do not use commas.
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 08:32:20.438000 #general @Leavism#2011: ?proset combat
+2016-07-06 08:32:20.628000 #general @Test-Bot#5202: ```
+?proset combat <combat_number>
+
+Set combat rank.
+
+1. Harmless
+2. Mostly Harmless
+3. Novice
+4. Competent
+5. Expert
+6. Master
+7. Dangerous
+8. Deadly
+9. Elite
+
+```
+2016-07-06 08:32:25.743000 #general @Leavism#2011: ?proset combat 9
+2016-07-06 08:32:25.918000 #general @Test-Bot#5202: You've set your combat rank to Elite. 
+http://www.edassets.org/img/pilots-federation/combat/rank-9-combat.png
+2016-07-06 08:32:25.918000 #general @Test-Bot#5202: You've set your combat rank to Elite. 
+http://www.edassets.org/img/pilots-federation/combat/rank-9-combat.png
+2016-07-06 08:32:34.599000 #general @Leavism#2011: ?proset combat 7
+2016-07-06 08:32:34.784000 #general @Test-Bot#5202: You've set your combat rank to Dangerous. 
+http://www.edassets.org/img/pilots-federation/combat/rank-7-combat.png
+2016-07-06 08:32:34.784000 #general @Test-Bot#5202: You've set your combat rank to Dangerous. 
+http://www.edassets.org/img/pilots-federation/combat/rank-7-combat.png
+2016-07-06 08:34:23.032000 #general @Leavism#2011: ?reload profile
+2016-07-06 08:34:23.342000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 08:34:26.634000 #general @Leavism#2011: ?help
+2016-07-06 08:34:26.841000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Owner:
+  set      Changes Simbad Bot's global settings.
+  unload   Unloads a module
+  load     Loads a module
+  logger   Toggles logging for a channel
+  reload   Reloads a module
+  modset   Manages server administration settings.
+  uptime   Shows Simbad Bot's uptime
+  shutdown Shuts down Simbad Bot
+Profile:
+  proset   Profile settings
+  profile  Accounts operations
+\u200bNo Category:
+  help     Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 08:34:29.100000 #general @Leavism#2011: ?profile combat
+2016-07-06 08:34:29.343000 #general @Test-Bot#5202: `Error in command 'profile combat' - TypeError: non-empty format string passed to object.__format__`
+2016-07-06 08:34:45.394000 #general @Leavism#2011: ?reload profile
+2016-07-06 08:34:45.632000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 08:34:49.546000 #general @Leavism#2011: ?profile combat
+2016-07-06 08:34:49.775000 #general @Test-Bot#5202: @Leavism Your combat rank is: None
+2016-07-06 08:34:58.329000 #general @Leavism#2011: ?proset combat 9
+2016-07-06 08:34:58.493000 #general @Test-Bot#5202: You've set your combat rank to Elite. 
+http://www.edassets.org/img/pilots-federation/combat/rank-9-combat.png
+2016-07-06 08:35:05.296000 #general @Leavism#2011: ?profile combat
+2016-07-06 08:35:05.462000 #general @Test-Bot#5202: @Leavism Your combat rank is: None
+2016-07-06 08:35:52.281000 #general @Leavism#2011: ?reload profile
+2016-07-06 08:35:52.570000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 08:35:53.677000 #general @Leavism#2011: ?profile combat
+2016-07-06 08:35:53.947000 #general @Test-Bot#5202: @Leavism Your combat rank is: None
+2016-07-06 08:36:08.858000 #general @Leavism#2011: ?reload profile
+2016-07-06 08:36:09.088000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 08:36:10.916000 #general @Leavism#2011: ?profile combat
+2016-07-06 08:36:11.080000 #general @Test-Bot#5202: @Leavism Your combat rank is: Elite
+2016-07-06 08:46:22.492000 #general @Leavism#2011: ?reload profile
+2016-07-06 08:46:22.765000 #general @Test-Bot#5202: `Error in command 'reload' - ClientException: Command combat is already registered.`
+2016-07-06 08:46:32.485000 #general @Leavism#2011: ?reload profile
+2016-07-06 08:46:32.645000 #general @Test-Bot#5202: `Error in command 'reload' - ClientException: Command combat is already registered.`
+2016-07-06 08:46:58.399000 #general @Leavism#2011: ?reload profile
+2016-07-06 08:46:58.578000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 08:47:00.824000 #general @Leavism#2011: ?profile register
+2016-07-06 08:47:00.992000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 08:47:05.971000 #general @Leavism#2011: ?proset trade 1
+2016-07-06 08:47:06.135000 #general @Test-Bot#5202: `Error in command 'proset trade' - NameError: name 'combat_number' is not defined`
+2016-07-06 08:47:19.743000 #general @Leavism#2011: ?reload profile
+2016-07-06 08:47:19.847000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 08:47:23.489000 #general @Leavism#2011: ?proset trade 1
+2016-07-06 08:47:23.656000 #general @Test-Bot#5202: `Error in command 'proset trade' - NameError: name 'trade' is not defined`
+2016-07-06 08:47:46.519000 #general @Leavism#2011: ?help
+2016-07-06 08:47:46.683000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Owner:
+  set      Changes Simbad Bot's global settings.
+  unload   Unloads a module
+  load     Loads a module
+  logger   Toggles logging for a channel
+  reload   Reloads a module
+  modset   Manages server administration settings.
+  uptime   Shows Simbad Bot's uptime
+  shutdown Shuts down Simbad Bot
+Profile:
+  proset   Profile settings
+  profile  Accounts operations
+\u200bNo Category:
+  help     Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 08:47:49.031000 #general @Leavism#2011: ?proset
+2016-07-06 08:47:49.191000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  powerplay  Set powerplay allegiance.
+  assets     Sets current assets of user's profile account. Do not use commas.
+  emp        Set Empire Navy Rank
+  trade      Set combat rank.
+  combat     Set combat rank.
+  cmdr       Sets CMDR name of user's profile account
+  superpower Set superpower allegiance.
+  fed        Set Federal Navy Rank
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 08:47:57.340000 #general @Leavism#2011: ?proset trade
+2016-07-06 08:47:57.484000 #general @Test-Bot#5202: ```
+?proset trade <trade_number>
+
+Set combat rank.
+
+1. Penniless
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+```
+2016-07-06 08:48:02.589000 #general @Leavism#2011: ?proset trade 1
+2016-07-06 08:48:02.768000 #general @Test-Bot#5202: `Error in command 'proset trade' - NameError: name 'trade' is not defined`
+2016-07-06 08:48:32.446000 #general @Leavism#2011: ?reload profile
+2016-07-06 08:48:32.626000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 08:48:38.576000 #general @Leavism#2011: ?proset trade 1
+2016-07-06 08:48:38.745000 #general @Test-Bot#5202: You've set your combat rank to Penniless. 
+http://www.edassets.org/img/pilots-federation/combat/rank-1-trading.png
+2016-07-06 08:49:08.419000 #general @Leavism#2011: ?reload profile
+2016-07-06 08:49:08.556000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 08:49:10.626000 #general @Leavism#2011: ?proset trade 1
+2016-07-06 08:49:10.791000 #general @Test-Bot#5202: You've set your combat rank to Penniless. 
+http://www.edassets.org/img/pilots-federation/trade/rank-1-trading.png
+2016-07-06 08:49:37.306000 #general @Leavism#2011: ?reload profile
+2016-07-06 08:49:37.508000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 08:49:40.214000 #general @Leavism#2011: ?proset trade 1
+2016-07-06 08:49:40.380000 #general @Test-Bot#5202: You've set your combat rank to Penniless. 
+http://www.edassets.org/img/pilots-federation/trading/rank-1-trading.png
+2016-07-06 08:49:40.380000 #general @Test-Bot#5202: You've set your combat rank to Penniless. 
+http://www.edassets.org/img/pilots-federation/trading/rank-1-trading.png
+2016-07-06 09:11:07.194000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:11:07.430000 #general @Test-Bot#5202: That module could not be loaded. Check your console or logs for more information.
+2016-07-06 09:11:27.216000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:11:27.420000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:12:19.899000 #general @Leavism#2011: ?help
+2016-07-06 09:12:20.143000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Owner:
+  set      Changes Simbad Bot's global settings.
+  unload   Unloads a module
+  load     Loads a module
+  logger   Toggles logging for a channel
+  reload   Reloads a module
+  modset   Manages server administration settings.
+  uptime   Shows Simbad Bot's uptime
+  shutdown Shuts down Simbad Bot
+Profile:
+  proset   Profile settings
+  profile  Accounts operations
+\u200bNo Category:
+  help     Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 09:12:26.175000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:12:26.422000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:12:31.842000 #general @Leavism#2011: ?profile register
+2016-07-06 09:12:32.021000 #general @Test-Bot#5202: `Error in command 'profile register' - TypeError: __new__() got an unexpected keyword argument 'explore'`
+2016-07-06 09:13:56.919000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:13:57.166000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:14:03.499000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:14:03.677000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:14:06.163000 #general @Leavism#2011: ?profile register
+2016-07-06 09:14:06.366000 #general @Test-Bot#5202: `Error in command 'profile register' - TypeError: __new__() got an unexpected keyword argument 'explore'`
+2016-07-06 09:14:51.197000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:14:51.554000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:14:57.086000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:14:57.255000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:15:00.952000 #general @Leavism#2011: ?profile register
+2016-07-06 09:15:01.043000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 09:15:08.161000 #general @Leavism#2011: ?proset explore
+2016-07-06 09:15:08.227000 #general @Test-Bot#5202: ```
+?proset explore <explore_number>
+
+Set combat rank.
+
+1. Aimless
+2. Mostly Aimless
+3. Scout
+4. Surveyor
+5. Trailblazer
+6. Pathfinder
+7. Ranger
+8. Pioneer
+9. Elite
+
+```
+2016-07-06 09:15:15.013000 #general @Leavism#2011: ?proset explore 2
+2016-07-06 09:15:15.223000 #general @Test-Bot#5202: `Error in command 'proset explore' - ValueError: not enough values to unpack (expected 3, got 2)`
+2016-07-06 09:16:08.675000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:16:08.964000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:16:13.109000 #general @Leavism#2011: ?proset explore 2
+2016-07-06 09:16:13.202000 #general @Test-Bot#5202: `Error in command 'proset explore' - IndexError: tuple index out of range`
+2016-07-06 09:16:50.819000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:16:51.017000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:16:54.187000 #general @Leavism#2011: ?proset explore
+2016-07-06 09:16:54.376000 #general @Test-Bot#5202: ```
+?proset explore <explore_number>
+
+Set combat rank.
+
+1. Aimless
+2. Mostly Aimless
+3. Scout
+4. Surveyor
+5. Trailblazer
+6. Pathfinder
+7. Ranger
+8. Pioneer
+9. Elite
+
+```
+2016-07-06 09:16:56.694000 #general @Leavism#2011: ?prost explore 2
+2016-07-06 09:17:00.507000 #general @Leavism#2011: ?proset explore 2
+2016-07-06 09:17:00.657000 #general @Test-Bot#5202: `Error in command 'proset explore' - IndexError: tuple index out of range`
+2016-07-06 09:17:38.796000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:17:39.065000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:17:41.998000 #general @Leavism#2011: ?proset explore
+2016-07-06 09:17:42.163000 #general @Test-Bot#5202: ```
+?proset explore <explore_number>
+
+Set combat rank.
+
+1. Aimless
+2. Mostly Aimless
+3. Scout
+4. Surveyor
+5. Trailblazer
+6. Pathfinder
+7. Ranger
+8. Pioneer
+9. Elite
+
+```
+2016-07-06 09:17:45.993000 #general @Leavism#2011: ?proset explore 2
+2016-07-06 09:17:46.193000 #general @Test-Bot#5202: You've set your exploration rank to Mostly Aimless.
+2016-07-06 09:18:31.358000 #general @Leavism#2011: ?profile explore
+2016-07-06 09:18:31.575000 #general @Test-Bot#5202: ```
+?profile
+
+Accounts operations
+
+Commands:
+  powerplay  Shows user's powerplay allegiance
+  cmdr       Shows cmdr name of users.
+  trade      Shows combat rank of user.
+  assets     Shows assets of user.
+  combat     Shows combat rank of user.
+  register   Registers an account at the Simbad profile
+  superpower Shows user's superpower allegiance
+  info       Displays all info from user's profile.
+
+Type ?profile command for more info on a command.
+You can also type ?profile category for more info on a category.
+```
+2016-07-06 09:19:46.301000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:19:46.541000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:20:18.928000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:20:19.179000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:20:24.459000 #general @Leavism#2011: ?proset combat 7
+2016-07-06 09:20:24.643000 #general @Test-Bot#5202: You've set your combat rank to Dangerous.
+2016-07-06 09:20:29.466000 #general @Leavism#2011: ?proset trade 9
+2016-07-06 09:20:29.662000 #general @Test-Bot#5202: You've set your combat rank to Elite.
+2016-07-06 09:20:35.419000 #general @Leavism#2011: ?proset explore 9
+2016-07-06 09:20:35.590000 #general @Test-Bot#5202: You've set your exploration rank to Elite.
+2016-07-06 09:20:42.185000 #general @Leavism#2011: ?proset cmdr Leavism
+2016-07-06 09:20:42.263000 #general @Test-Bot#5202: You've set your CMDR name to Leavism. **If you have more than one word in your CMDR name, put it in double quotes.**
+2016-07-06 09:20:50.226000 #general @Leavism#2011: ?proset emprank 10
+2016-07-06 09:20:50.289000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  powerplay  Set powerplay allegiance.
+  assets     Sets current assets of user's profile account. Do not use commas.
+  emp        Set Empire Navy Rank
+  trade      Set combat rank.
+  combat     Set combat rank.
+  cmdr       Sets CMDR name of user's profile account
+  explore    Set combat rank.
+  superpower Set superpower allegiance.
+  fed        Set Federal Navy Rank
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 09:20:57.628000 #general @Leavism#2011: ?proset emp 10
+2016-07-06 09:20:57.831000 #general @Test-Bot#5202: You've set your Empire Navy rank to Earl.
+2016-07-06 09:21:03.157000 #general @Leavism#2011: ?proset emp 11
+2016-07-06 09:21:03.325000 #general @Test-Bot#5202: You've set your Empire Navy rank to Marquis.
+2016-07-06 09:21:08.209000 #general @Leavism#2011: ?proset emp 12
+2016-07-06 09:21:08.413000 #general @Test-Bot#5202: You've set your Empire Navy rank to Duke.
+2016-07-06 09:21:12.479000 #general @Leavism#2011: ?proset fed 14
+2016-07-06 09:21:12.655000 #general @Test-Bot#5202: You've set your Federation Navy rank to Admiral.
+2016-07-06 09:21:19.891000 #general @Leavism#2011: ?proset powerplay 2
+2016-07-06 09:21:20.069000 #general @Test-Bot#5202: You've set your powerplay allegiance to Aisling Duval
+2016-07-06 09:21:26.497000 #general @Leavism#2011: ?proset superpower 3
+2016-07-06 09:21:26.663000 #general @Test-Bot#5202: You've set your superpower allegiance to Empire.
+2016-07-06 09:21:34.438000 #general @Leavism#2011: ?profile info
+2016-07-06 09:21:34.653000 #general @Test-Bot#5202: `Error in command 'profile info' - AttributeError: 'Accounts' object has no attribute 'get_explore'`
+2016-07-06 09:22:15.299000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:22:15.623000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:22:17.756000 #general @Leavism#2011: ?profile info
+2016-07-06 09:22:17.930000 #general @Test-Bot#5202: @Leavism 
+**CMDR Name: **Leavism
+**Current Assets: **0
+**Powerplay Allegiance: **Aisling Duval
+**Superpower Allegiance: **Empire
+**Federal Navy Rank: ** Admiral
+**Empire Navy Rank: ** Duke
+**Combat Rank: ** Dangerous
+**Trade Rank: ** Elite
+**Exploration Rank: ** Elite
+
+2016-07-06 09:25:26.704000 #general @Leavism#2011: ?help
+2016-07-06 09:25:26.971000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Owner:
+  set      Changes Simbad Bot's global settings.
+  unload   Unloads a module
+  load     Loads a module
+  logger   Toggles logging for a channel
+  reload   Reloads a module
+  modset   Manages server administration settings.
+  uptime   Shows Simbad Bot's uptime
+  shutdown Shuts down Simbad Bot
+Profile:
+  proset   Profile settings
+  profile  Accounts operations
+\u200bNo Category:
+  help     Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 09:34:37.339000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:34:37.633000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:34:42.945000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:34:43.108000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:34:46.153000 #general @Leavism#2011: ?profile register
+2016-07-06 09:34:46.393000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 09:34:50.422000 #general @Leavism#2011: ?proset location
+2016-07-06 09:34:50.534000 #general @Test-Bot#5202: ```
+?proset location <everything>
+
+```
+2016-07-06 09:34:56.819000 #general @Leavism#2011: ?proset location PST
+2016-07-06 09:34:56.986000 #general @Test-Bot#5202: `Error in command 'proset location' - AttributeError: 'Profile' object has no attribute 'boy'`
+2016-07-06 09:35:08.873000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:35:09.058000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:35:50.873000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:35:51.141000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:35:53.836000 #general @Leavism#2011: ?proset location
+2016-07-06 09:35:54.028000 #general @Test-Bot#5202: ```
+?proset location <location>
+
+Set your location/timezone.
+
+__**Never give out your address**__
+
+```
+2016-07-06 09:36:09.759000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:36:09.900000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:36:31.152000 #general @Leavism#2011: ?load profile
+2016-07-06 09:36:31.335000 #general @Test-Bot#5202: Module enabled.
+2016-07-06 09:36:34.958000 #general @Leavism#2011: ?proset location PST
+2016-07-06 09:36:35.135000 #general @Test-Bot#5202: `Error in command 'proset location' - NameError: name 'everything' is not defined`
+2016-07-06 09:37:04.509000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:37:04.677000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:37:09.785000 #general @Leavism#2011: ?proset location PSPE
+2016-07-06 09:37:09.953000 #general @Test-Bot#5202: You've set your location/timezone to {}. **Please only your state/country/timezone. Never give out your address. __I repeat: Never give out your address__**
+2016-07-06 09:37:35.029000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:37:35.211000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:37:38.199000 #general @Leavism#2011: ?proset location PSPSP
+2016-07-06 09:37:38.300000 #general @Test-Bot#5202: You've set your location/timezone to PSPSP. **Please only your state/country/timezone. Never give out your address. __I repeat: Never give out your address__**
+2016-07-06 09:38:59.289000 #general @Leavism#2011: @\U0001f427MitchGuy
+2016-07-06 09:39:14.150000 #general @Leavism#2011: ?load mod
+2016-07-06 09:39:14.453000 #general @Test-Bot#5202: Module enabled.
+2016-07-06 09:39:19.341000 #general @Leavism#2011: ?cleanup messages 100
+2016-07-06 09:39:24.676000 #general @Leavism#2011: @\U0001f427MitchGuy
+2016-07-06 09:40:57.380000 #general @Leavism#2011: WHERE YOU AT BRO @\U0001f427MitchGuy
+2016-07-06 09:41:27.990000 #general @Leavism#2011: ROROROROROROROORORORORO
+2016-07-06 09:42:27.823000 #general @\U0001f427MitchGuy#7046: I muted chat \U0001f61b
+2016-07-06 09:42:31.293000 #general @Leavism#2011: ES FINE
+2016-07-06 09:42:35.799000 #general @Leavism#2011: OK SO
+2016-07-06 09:42:40.834000 #general @Leavism#2011: PEOPEL ASKED US TO USE INARA
+2016-07-06 09:42:42.694000 #general @Leavism#2011: WE SAID NAY
+2016-07-06 09:42:47.697000 #general @Leavism#2011: so i made our own inara
+2016-07-06 09:42:51.556000 #general @Leavism#2011: ?profile register
+2016-07-06 09:42:51.809000 #general @Test-Bot#5202: @Leavism You already have an account at the Simbad profile.
+2016-07-06 09:42:59.336000 #general @Leavism#2011: ?reload profile
+2016-07-06 09:42:59.514000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 09:43:01.936000 #general @Leavism#2011: ?profile register
+2016-07-06 09:43:02.105000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 09:43:03.490000 #general @Leavism#2011: \U0001f603
+2016-07-06 09:43:31.410000 #general @Leavism#2011: Not as broad as the actual inara
+2016-07-06 09:43:35.441000 #general @Leavism#2011: but the basics are there
+2016-07-06 09:49:42.575000 #general @Leavism#2011: ?help
+2016-07-06 09:49:42.790000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Mod:
+  cleanup   Deletes messages.
+  whitelist Users who will be able to use the bot
+  blacklist Bans user from using the bot
+  filter    Adds/removes words from filter
+  command   Disables/enables commands
+Owner:
+  unload    Unloads a module
+  uptime    Shows Simbad Bot's uptime
+  load      Loads a module
+  reload    Reloads a module
+  logger    Toggles logging for a channel
+  set       Changes Simbad Bot's global settings.
+  modset    Manages server administration settings.
+  shutdown  Shuts down Simbad Bot
+Profile:
+  profile   Accounts operations
+  proset    Profile settings
+\u200bNo Category:
+  help      Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 09:49:46.858000 #general @Leavism#2011: ?logger
+2016-07-06 09:49:47.060000 #general @Test-Bot#5202: Logging enabled for #general
+2016-07-06 09:54:22.577000 #general @Leavism#2011: ?load mentiontracker
+2016-07-06 09:54:22.916000 #general @Test-Bot#5202: There was an issue loading the module. Check your console or logs for more information.
+2016-07-06 09:54:43.635000 #general @Leavism#2011: ?load mentiontracker
+2016-07-06 09:54:43.815000 #general @Test-Bot#5202: Module was found and possibly loaded but something went wrong. Check your console or logs for more information.
+2016-07-06 09:55:02.839000 #general @Leavism#2011: ?load mentiontracker
+2016-07-06 09:55:03.038000 #general @Test-Bot#5202: Module enabled.
+2016-07-06 09:55:05.523000 #general @Leavism#2011: ?help
+2016-07-06 09:55:05.730000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+MentionTracker:
+  mention    Saves your mentions when you're not online.
+  mentionset Manage mentiontracker settings
+Mod:
+  cleanup    Deletes messages.
+  whitelist  Users who will be able to use the bot
+  blacklist  Bans user from using the bot
+  filter     Adds/removes words from filter
+  command    Disables/enables commands
+Owner:
+  unload     Unloads a module
+  uptime     Shows Simbad Bot's uptime
+  load       Loads a module
+  reload     Reloads a module
+  logger     Toggles logging for a channel
+  set        Changes Simbad Bot's global settings.
+  modset     Manages server administration settings.
+  shutdown   Shuts down Simbad Bot
+Profile:
+  profile    Accounts operations
+  proset     Profile settings
+\u200bNo Category:
+  help       Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 09:55:09.270000 #general @Leavism#2011: ?mention
+2016-07-06 09:55:09.459000 #general @Test-Bot#5202: ```
+?mention
+
+Saves your mentions when you're not online.
+
+Commands:
+  read       Read all mentions since you've been away.
+  register   Register yourself for mention tracking
+  unregister Unregister yourself from mention tracking
+
+Type ?mention command for more info on a command.
+You can also type ?mention category for more info on a category.
+```
+2016-07-06 09:55:13.013000 #general @Leavism#2011: ?mention register
+2016-07-06 09:55:13.216000 #general @Test-Bot#5202: @Leavism, thanks for registering.
+2016-07-06 09:55:16.460000 #general @Leavism#2011: @Leavism
+2016-07-06 09:55:18.336000 #general @Leavism#2011: @Leavism
+2016-07-06 09:55:21.025000 #general @Leavism#2011: ?mention read
+2016-07-06 09:55:21.132000 #general @Test-Bot#5202: You have no mentions.
+2016-07-06 09:55:56.259000 #general @b0r3d0#1378: @Leavism hey man
+2016-07-06 09:55:59.323000 #general @b0r3d0#1378: @Leavism Hey dud
+2016-07-06 09:56:03.688000 #general @b0r3d0#1378: @Leavism HEY
+2016-07-06 09:56:18.162000 #general @Leavism#2011: ?mention read
+2016-07-06 09:56:51.845000 #general @b0r3d0#1378: ?reload mentiontracker
+2016-07-06 09:57:22.616000 #general @b0r3d0#1378: @Leavism
+2016-07-06 09:57:24.502000 #general @b0r3d0#1378: Yo
+2016-07-06 09:57:28.855000 #general @b0r3d0#1378: @Leavism yoyoyoyo
+2016-07-06 09:57:31.754000 #general @b0r3d0#1378: @Leavism haouihffhidsoiohdsfa
+2016-07-06 09:57:36.060000 #general @b0r3d0#1378: @Leavism fhsuiohauiihufaiuhfadhuifda
+2016-07-06 09:57:42.501000 #general @Leavism#2011: ?mention read
+2016-07-06 09:58:35.147000 #general @Leavism#2011: ?mention read
+2016-07-06 09:58:35.435000 #general @Test-Bot#5202: You have no mentions.
+2016-07-06 09:58:38.629000 #general @Leavism#2011: ?mention read
+2016-07-06 09:58:38.810000 #general @Test-Bot#5202: You have no mentions.
+2016-07-06 09:58:46.690000 #general @b0r3d0#1378: @Leavism hey man I see you
+2016-07-06 09:58:53.019000 #general @b0r3d0#1378: @Leavism Why you gotta be like that
+2016-07-06 09:59:00.282000 #general @Leavism#2011: ?mention read
+2016-07-06 10:00:30.264000 #general @Leavism#2011: @b0r3d0 dude i see you
+2016-07-06 10:00:37.176000 #general @Leavism#2011: like what's up man?
+2016-07-06 10:00:39.968000 #general @Leavism#2011: what do you need?
+2016-07-06 10:00:44.355000 #general @Leavism#2011: @b0r3d0 I got something for you
+2016-07-06 10:00:45.634000 #general @Leavism#2011: guess what
+2016-07-06 10:00:55.877000 #general @b0r3d0#1378: ?mention
+2016-07-06 10:00:56.169000 #general @Test-Bot#5202: ```
+?mention
+
+Saves your mentions when you're not online.
+
+Commands:
+  read       Read all mentions since you've been away.
+  register   Register yourself for mention tracking
+  unregister Unregister yourself from mention tracking
+
+Type ?mention command for more info on a command.
+You can also type ?mention category for more info on a category.
+```
+2016-07-06 10:01:00.324000 #general @b0r3d0#1378: ?mention register
+2016-07-06 10:01:00.611000 #general @Test-Bot#5202: @b0r3d0, thanks for registering.
+2016-07-06 10:01:07.946000 #general @b0r3d0#1378: np homie
+2016-07-06 10:01:10.578000 #general @b0r3d0#1378: no problem at all
+2016-07-06 10:01:11.277000 #general @b0r3d0#1378: yup
+2016-07-06 10:01:17.980000 #general @Leavism#2011: @b0r3d0 dude I see you
+2016-07-06 10:01:19.820000 #general @Leavism#2011: like what's up man
+2016-07-06 10:01:22.476000 #general @Leavism#2011: what do you need?
+2016-07-06 10:01:24.031000 #general @Leavism#2011: @b0re
+2016-07-06 10:01:30.965000 #general @Leavism#2011: @b0r3d0 I got something for you
+2016-07-06 10:01:33.107000 #general @Leavism#2011: guess what
+2016-07-06 10:01:36.226000 #general @b0r3d0#1378: ?mention read
+2016-07-06 17:13:40.005000 #general @Leavism#2011: ?reload mentiontracker
+2016-07-06 17:13:40.381000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 17:14:32.201000 #general @b0r3d0#1378: I wonder what happened
+2016-07-06 17:14:41.396000 #general @b0r3d0#1378: Like forrealzies
+2016-07-06 17:14:46.691000 #general @b0r3d0#1378: @Leavism Hey man how do you do
+2016-07-06 17:14:57.471000 #general @b0r3d0#1378: I missed you buddy man ol' pal
+2016-07-06 17:15:01.468000 #general @b0r3d0#1378: forreallllzllzz
+2016-07-06 17:15:02.361000 #general @b0r3d0#1378: spam
+2016-07-06 17:15:06.989000 #general @b0r3d0#1378: @Leavism reply dawg
+2016-07-06 17:16:40.014000 #general @Leavism#2011: ?reload mentiontracker
+2016-07-06 17:16:40.153000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 17:16:51.552000 #general @b0r3d0#1378: message 1
+2016-07-06 17:16:53.778000 #general @b0r3d0#1378: message 2
+2016-07-06 17:16:56.580000 #general @b0r3d0#1378: message 3
+2016-07-06 17:17:01.481000 #general @b0r3d0#1378: @Leavism tagging message
+2016-07-06 17:17:04.184000 #general @b0r3d0#1378: Message 4
+2016-07-06 17:17:05.678000 #general @b0r3d0#1378: message 5
+2016-07-06 17:17:07.257000 #general @b0r3d0#1378: message 6
+2016-07-06 17:17:12.048000 #general @b0r3d0#1378: @Leavism tagging message 2
+2016-07-06 17:17:49.241000 #general @b0r3d0#1378: @reload mentiontracker
+2016-07-06 17:18:09.081000 #general @b0r3d0#1378: Message 1
+2016-07-06 17:18:10.632000 #general @b0r3d0#1378: Message 2
+2016-07-06 17:18:11.783000 #general @b0r3d0#1378: Message 3
+2016-07-06 17:18:20.688000 #general @b0r3d0#1378: @Leavism tagging message 1
+2016-07-06 17:18:22.907000 #general @b0r3d0#1378: Message 4
+2016-07-06 17:18:24.090000 #general @b0r3d0#1378: Message 5
+2016-07-06 17:18:25.570000 #general @b0r3d0#1378: Message 6
+2016-07-06 17:18:31.087000 #general @b0r3d0#1378: @Leavism tagging Message 2
+2016-07-06 17:18:33.750000 #general @b0r3d0#1378: Message 7
+2016-07-06 17:18:35.049000 #general @b0r3d0#1378: Message 8
+2016-07-06 17:18:37.280000 #general @b0r3d0#1378: Message 9
+2016-07-06 17:18:41.560000 #general @b0r3d0#1378: @Leavism tagging Message 3
+2016-07-06 17:19:02.405000 #general @Leavism#2011: ?mention set
+2016-07-06 17:19:02.579000 #general @Test-Bot#5202: ```
+?mention
+
+Saves your mentions when you're not online.
+
+Commands:
+  read       Read all mentions since you've been away.
+  register   Register yourself for mention tracking
+  unregister Unregister yourself from mention tracking
+
+Type ?mention command for more info on a command.
+You can also type ?mention category for more info on a category.
+```
+2016-07-06 17:19:07.588000 #general @Leavism#2011: ?mentionset
+2016-07-06 17:19:07.763000 #general @Test-Bot#5202: ```
+?mentionset
+
+Manage mentiontracker settings
+
+Commands:
+  limit Number of minutes to wait in between saving mentions.
+
+Type ?mentionset command for more info on a command.
+You can also type ?mentionset category for more info on a category.
+```
+2016-07-06 17:19:07.936000 #general @Test-Bot#5202: ```MENTION_TIME_LIMIT: 5
+```
+2016-07-06 17:19:32.280000 #general @b0r3d0#1378: ?mentionset limit 0
+2016-07-06 17:19:39.779000 #general @Leavism#2011: ?mentionset limit 0
+2016-07-06 17:19:49.315000 #general @Leavism#2011: ?mentionset limit
+2016-07-06 17:19:49.581000 #general @Test-Bot#5202: ```
+?mentionset limit <num>
+
+Number of minutes to wait in between saving mentions.
+
+```
+2016-07-06 17:19:55.619000 #general @Leavism#2011: ?mentionset limit 1
+2016-07-06 17:21:04.417000 #general @b0r3d0#1378: ?mentionset
+2016-07-06 17:21:09.375000 #general @Leavism#2011: ?mensetion set
+2016-07-06 17:21:13.569000 #general @Leavism#2011: ?mentionset
+2016-07-06 17:21:13.727000 #general @Test-Bot#5202: ```
+?mentionset
+
+Manage mentiontracker settings
+
+Commands:
+  limit Number of minutes to wait in between saving mentions.
+
+Type ?mentionset command for more info on a command.
+You can also type ?mentionset category for more info on a category.
+```
+2016-07-06 17:21:13.992000 #general @Test-Bot#5202: ```MENTION_TIME_LIMIT: 1
+```
+2016-07-06 17:21:18.903000 #general @Leavism#2011: ?mentionset 0
+2016-07-06 17:21:19.067000 #general @Test-Bot#5202: ```
+?mentionset
+
+Manage mentiontracker settings
+
+Commands:
+  limit Number of minutes to wait in between saving mentions.
+
+Type ?mentionset command for more info on a command.
+You can also type ?mentionset category for more info on a category.
+```
+2016-07-06 17:21:19.253000 #general @Test-Bot#5202: ```MENTION_TIME_LIMIT: 1
+```
+2016-07-06 17:21:25.920000 #general @Leavism#2011: ?mentionset limit 0
+2016-07-06 17:21:29.553000 #general @Leavism#2011: ?mentionset
+2016-07-06 17:21:29.740000 #general @Test-Bot#5202: ```
+?mentionset
+
+Manage mentiontracker settings
+
+Commands:
+  limit Number of minutes to wait in between saving mentions.
+
+Type ?mentionset command for more info on a command.
+You can also type ?mentionset category for more info on a category.
+```
+2016-07-06 17:21:29.959000 #general @Test-Bot#5202: ```MENTION_TIME_LIMIT: 0
+```
+2016-07-06 17:22:29.218000 #general @b0r3d0#1378: Message 1
+2016-07-06 17:22:30.205000 #general @b0r3d0#1378: Message 2
+2016-07-06 17:22:31.745000 #general @b0r3d0#1378: Message 3
+2016-07-06 17:22:41.087000 #general @b0r3d0#1378: @Leavism Message one
+2016-07-06 17:22:43.308000 #general @b0r3d0#1378: Message 4
+2016-07-06 17:22:44.464000 #general @b0r3d0#1378: Message 5
+2016-07-06 17:22:45.533000 #general @b0r3d0#1378: Message 6
+2016-07-06 17:22:49.322000 #general @b0r3d0#1378: @Leavism Message two
+2016-07-06 17:22:50.513000 #general @b0r3d0#1378: Message 7
+2016-07-06 17:22:51.973000 #general @b0r3d0#1378: Message 8
+2016-07-06 17:22:53.108000 #general @b0r3d0#1378: Message 9
+2016-07-06 17:22:58.065000 #general @b0r3d0#1378: @Leavism Message three
+2016-07-06 17:24:22.213000 #general @b0r3d0#1378: 1
+2016-07-06 17:24:22.716000 #general @b0r3d0#1378: 2
+2016-07-06 17:24:23.142000 #general @b0r3d0#1378: 3
+2016-07-06 17:24:23.610000 #general @b0r3d0#1378: 4
+2016-07-06 17:24:27.384000 #general @b0r3d0#1378: @Leavism message 1
+2016-07-06 17:24:29.451000 #general @b0r3d0#1378: 5
+2016-07-06 17:24:29.817000 #general @b0r3d0#1378: 6
+2016-07-06 17:24:30.183000 #general @b0r3d0#1378: 7
+2016-07-06 17:24:30.656000 #general @b0r3d0#1378: 8
+2016-07-06 17:24:34.962000 #general @b0r3d0#1378: @Leavism message 2
+2016-07-06 17:26:45.768000 #general @b0r3d0#1378: 1
+2016-07-06 17:26:46.087000 #general @b0r3d0#1378: 2
+2016-07-06 17:26:46.285000 #general @b0r3d0#1378: 3
+2016-07-06 17:26:47.048000 #general @b0r3d0#1378: 4
+2016-07-06 17:26:49.905000 #general @b0r3d0#1378: @Leavism message 1
+2016-07-06 17:26:51.006000 #general @b0r3d0#1378: 5
+2016-07-06 17:26:51.345000 #general @b0r3d0#1378: 6
+2016-07-06 17:26:51.743000 #general @b0r3d0#1378: 7
+2016-07-06 17:26:52.050000 #general @b0r3d0#1378: 8
+2016-07-06 17:26:56.726000 #general @b0r3d0#1378: @Leavism message 2
+2016-07-06 17:26:58.161000 #general @b0r3d0#1378: 9
+2016-07-06 17:26:58.511000 #general @b0r3d0#1378: 10
+2016-07-06 17:26:59.097000 #general @b0r3d0#1378: 11
+2016-07-06 17:26:59.602000 #general @b0r3d0#1378: 12
+2016-07-06 17:27:01.029000 #general @b0r3d0#1378: 13
+2016-07-06 17:29:46.664000 #general @b0r3d0#1378: 1
+2016-07-06 17:29:46.927000 #general @b0r3d0#1378: 2
+2016-07-06 17:29:47.192000 #general @b0r3d0#1378: 3
+2016-07-06 17:29:47.437000 #general @b0r3d0#1378: 4
+2016-07-06 17:29:53.803000 #general @b0r3d0#1378: @Leavism message 1
+2016-07-06 17:29:55.649000 #general @b0r3d0#1378: 5
+2016-07-06 17:29:56.046000 #general @b0r3d0#1378: 6
+2016-07-06 17:29:56.387000 #general @b0r3d0#1378: 7
+2016-07-06 17:29:56.900000 #general @b0r3d0#1378: 8
+2016-07-06 17:36:08.301000 #general @b0r3d0#1378: 1
+2016-07-06 17:36:08.595000 #general @b0r3d0#1378: 2
+2016-07-06 17:36:08.853000 #general @b0r3d0#1378: 3
+2016-07-06 17:36:09.523000 #general @b0r3d0#1378: 4
+2016-07-06 17:36:12.913000 #general @b0r3d0#1378: @Leavism message 1
+2016-07-06 17:36:36.450000 #general @b0r3d0#1378: 5
+2016-07-06 17:36:36.886000 #general @b0r3d0#1378: 6
+2016-07-06 17:36:37.407000 #general @b0r3d0#1378: 7
+2016-07-06 17:36:39.586000 #general @b0r3d0#1378: 8
+2016-07-06 17:37:52.568000 #general @Leavism#2011: ?reload mentiontracker
+2016-07-06 17:37:52.837000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 17:38:09.945000 #general @b0r3d0#1378: 1
+2016-07-06 17:38:10.219000 #general @b0r3d0#1378: 2
+2016-07-06 17:38:10.485000 #general @b0r3d0#1378: 3
+2016-07-06 17:38:11.132000 #general @b0r3d0#1378: 4
+2016-07-06 17:38:16.001000 #general @b0r3d0#1378: @Leavism 1
+2016-07-06 17:38:18.107000 #general @b0r3d0#1378: 5
+2016-07-06 17:38:18.469000 #general @b0r3d0#1378: 6
+2016-07-06 17:38:18.756000 #general @b0r3d0#1378: 7
+2016-07-06 17:38:19.478000 #general @b0r3d0#1378: 8
+2016-07-06 17:39:01.110000 #general @b0r3d0#1378: 1
+2016-07-06 17:39:01.370000 #general @b0r3d0#1378: 2
+2016-07-06 17:39:01.656000 #general @b0r3d0#1378: 3
+2016-07-06 17:39:01.959000 #general @b0r3d0#1378: 4
+2016-07-06 17:39:06.282000 #general @b0r3d0#1378: @Leavism one
+2016-07-06 17:39:07.475000 #general @b0r3d0#1378: 5
+2016-07-06 17:39:07.761000 #general @b0r3d0#1378: 6
+2016-07-06 17:39:08.049000 #general @b0r3d0#1378: 7
+2016-07-06 17:39:08.418000 #general @b0r3d0#1378: 8
+2016-07-06 17:39:11.773000 #general @b0r3d0#1378: @Leavism two
+2016-07-06 17:39:14.087000 #general @b0r3d0#1378: 9
+2016-07-06 17:39:14.512000 #general @b0r3d0#1378: 10
+2016-07-06 17:39:15.127000 #general @b0r3d0#1378: 11
+2016-07-06 17:39:15.567000 #general @b0r3d0#1378: 12
+2016-07-06 17:46:06.946000 #general @Leavism#2011: ?reload mention tracker
+2016-07-06 17:46:07.249000 #general @Test-Bot#5202: That module cannot be found.
+2016-07-06 17:46:10.955000 #general @b0r3d0#1378: 1
+2016-07-06 17:46:11.122000 #general @b0r3d0#1378: 2
+2016-07-06 17:46:11.381000 #general @b0r3d0#1378: 3
+2016-07-06 17:46:11.645000 #general @b0r3d0#1378: 4
+2016-07-06 17:46:15.287000 #general @b0r3d0#1378: @Leavism one
+2016-07-06 17:46:16.332000 #general @b0r3d0#1378: 5
+2016-07-06 17:46:16.585000 #general @b0r3d0#1378: 6
+2016-07-06 17:46:16.781000 #general @b0r3d0#1378: 7
+2016-07-06 17:46:17.458000 #general @b0r3d0#1378: 8
+2016-07-06 17:46:51.205000 #general @b0r3d0#1378: 1
+2016-07-06 17:46:51.560000 #general @b0r3d0#1378: 2
+2016-07-06 17:46:51.864000 #general @b0r3d0#1378: 3
+2016-07-06 17:46:52.372000 #general @b0r3d0#1378: 4
+2016-07-06 17:46:55.604000 #general @b0r3d0#1378: @Leavism one
+2016-07-06 17:46:56.821000 #general @b0r3d0#1378: 5
+2016-07-06 17:46:57.146000 #general @b0r3d0#1378: 6
+2016-07-06 17:46:57.474000 #general @b0r3d0#1378: 7
+2016-07-06 17:46:58.058000 #general @b0r3d0#1378: 8
+2016-07-06 17:49:22.319000 #general @b0r3d0#1378: 1
+2016-07-06 17:49:22.579000 #general @b0r3d0#1378: 2
+2016-07-06 17:49:22.835000 #general @b0r3d0#1378: 3
+2016-07-06 17:49:23.245000 #general @b0r3d0#1378: 4
+2016-07-06 17:49:24.737000 #general @b0r3d0#1378: one
+2016-07-06 17:49:25.535000 #general @b0r3d0#1378: 5
+2016-07-06 17:49:25.945000 #general @b0r3d0#1378: 6
+2016-07-06 17:49:26.349000 #general @b0r3d0#1378: 7
+2016-07-06 17:49:26.968000 #general @b0r3d0#1378: 8
+2016-07-06 17:49:24.737000 #general @b0r3d0#1378: EDIT: 
+Before: one
+After: one @Leavism
+2016-07-06 17:50:18.817000 #general @b0r3d0#1378: 1
+2016-07-06 17:50:18.961000 #general @b0r3d0#1378: 2
+2016-07-06 17:50:19.256000 #general @b0r3d0#1378: 3
+2016-07-06 17:50:19.922000 #general @b0r3d0#1378: 4
+2016-07-06 17:50:22.479000 #general @b0r3d0#1378: one
+2016-07-06 17:50:23.396000 #general @b0r3d0#1378: 5
+2016-07-06 17:50:23.656000 #general @b0r3d0#1378: 6
+2016-07-06 17:50:23.900000 #general @b0r3d0#1378: 7
+2016-07-06 17:50:24.607000 #general @b0r3d0#1378: 8
+2016-07-06 17:50:22.479000 #general @b0r3d0#1378: EDIT: 
+Before: one
+After: one @Leavism
+2016-07-06 17:50:42.852000 #general @b0r3d0#1378: 1
+2016-07-06 17:50:43.125000 #general @b0r3d0#1378: 2
+2016-07-06 17:50:43.308000 #general @b0r3d0#1378: 3
+2016-07-06 17:50:43.667000 #general @b0r3d0#1378: 4
+2016-07-06 17:50:44.135000 #general @b0r3d0#1378: 5
+2016-07-06 17:50:49.149000 #general @b0r3d0#1378: @Leavism
+2016-07-06 17:50:49.905000 #general @b0r3d0#1378: 6
+2016-07-06 17:50:50.214000 #general @b0r3d0#1378: 7
+2016-07-06 17:50:50.513000 #general @b0r3d0#1378: 8
+2016-07-06 17:50:51.125000 #general @b0r3d0#1378: 9
+2016-07-06 17:50:53.029000 #general @b0r3d0#1378: @Leavism
+2016-07-06 18:28:28.923000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:28:29.163000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:28:34.550000 #general @Leavism#2011: ?profile register
+2016-07-06 18:28:34.807000 #general @Test-Bot#5202: `Error in command 'profile register' - KeyError: '130604133978865664'`
+2016-07-06 18:29:34.045000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:29:34.332000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:29:36.726000 #general @Leavism#2011: ?profile register
+2016-07-06 18:29:36.814000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 18:30:55.573000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:30:55.839000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:30:58.380000 #general @Leavism#2011: ?profile register
+2016-07-06 18:30:58.546000 #general @Test-Bot#5202: `Error in command 'profile register' - AttributeError: 'Member' object has no attribute 'io'`
+2016-07-06 18:31:16.955000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:31:17.140000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:31:19.741000 #general @Leavism#2011: ?profile register
+2016-07-06 18:31:19.909000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 18:31:58.277000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:31:58.453000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:32:01.291000 #general @Leavism#2011: ?profile register
+2016-07-06 18:32:01.455000 #general @Test-Bot#5202: `Error in command 'profile register' - KeyError: '130604133978865664'`
+2016-07-06 18:32:52.754000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:32:53.036000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:32:55.200000 #general @Leavism#2011: ?profile register
+2016-07-06 18:32:55.472000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 18:40:32.751000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:40:32.929000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:40:39.469000 #general @Leavism#2011: ?proset addship adder
+2016-07-06 18:40:39.668000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  emp        Set Empire Navy Rank
+  combat     Set combat rank.
+  fed        Set Federal Navy Rank
+  explore    Set combat rank.
+  assets     Sets current assets of user's profile account. Do not use commas.
+  powerplay  Set powerplay allegiance.
+  cmdr       Sets CMDR name of user's profile account
+  superpower Set superpower allegiance.
+  trade      Set combat rank.
+  shipadd    
+  location   Set your location/timezone.
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 18:40:51.834000 #general @Leavism#2011: ?proset
+2016-07-06 18:40:52.011000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  emp        Set Empire Navy Rank
+  combat     Set combat rank.
+  fed        Set Federal Navy Rank
+  explore    Set combat rank.
+  assets     Sets current assets of user's profile account. Do not use commas.
+  powerplay  Set powerplay allegiance.
+  cmdr       Sets CMDR name of user's profile account
+  superpower Set superpower allegiance.
+  trade      Set combat rank.
+  shipadd    
+  location   Set your location/timezone.
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 18:41:00.736000 #general @Leavism#2011: ?proset shipadd adder
+2016-07-06 18:41:00.904000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 18:42:06.537000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:42:06.832000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:42:34.286000 #general @Leavism#2011: ?profile shipadd adder
+2016-07-06 18:42:34.452000 #general @Test-Bot#5202: ```
+?profile
+
+Accounts operations
+
+Commands:
+  powerplay  Shows user's powerplay allegiance
+  assets     Shows assets of user.
+  explore    Shows combat rank of user.
+  trade      Shows combat rank of user.
+  combat     Shows combat rank of user.
+  register   Registers an account at the Simbad profile
+  cmdr       Shows cmdr name of users.
+  superpower Shows user's superpower allegiance
+  location   Shows cmdr general location and timezone
+  info       Displays all info from user's profile.
+
+Type ?profile command for more info on a command.
+You can also type ?profile category for more info on a category.
+```
+2016-07-06 18:42:43.453000 #general @Leavism#2011: ?proset shipadd adder
+2016-07-06 18:42:43.595000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 18:46:02.465000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:46:02.808000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:46:05.787000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 18:46:05.956000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 18:46:22.686000 #general @Leavism#2011: ?relaod profile
+2016-07-06 18:46:28.844000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:46:29.035000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:46:32.095000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 18:46:32.269000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 18:48:44.834000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:48:45.078000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:48:47.761000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 18:48:48.011000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 18:49:21.694000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:49:22.014000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:49:25.889000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 18:49:52.311000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:49:52.595000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:49:55.221000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 18:50:28.673000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:50:29.024000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:50:32.021000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 18:51:34.109000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:51:34.315000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:51:38.040000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 18:51:38.146000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 18:54:05.018000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:54:05.357000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:54:09.171000 #general @Leavism#2011: ?profile register
+2016-07-06 18:54:09.440000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 18:54:17.007000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 18:54:17.214000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 18:56:09.981000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:56:10.242000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:56:13.877000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 18:56:14.103000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 18:59:16.873000 #general @Leavism#2011: ?reload profile
+2016-07-06 18:59:17.156000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 18:59:20.610000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 18:59:20.844000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 19:00:00.260000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:00:00.600000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:00:04.023000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 19:00:04.304000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 19:00:33.055000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:00:33.303000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:00:37.091000 #general @Leavism#2011: ?proset shipadd1
+2016-07-06 19:00:37.278000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  emp        Set Empire Navy Rank
+  combat     Set combat rank.
+  fed        Set Federal Navy Rank
+  explore    Set combat rank.
+  assets     Sets current assets of user's profile account. Do not use commas.
+  powerplay  Set powerplay allegiance.
+  cmdr       Sets CMDR name of user's profile account
+  superpower Set superpower allegiance.
+  trade      Set combat rank.
+  shipadd    
+  location   Set your location/timezone.
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 19:00:41.545000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 19:00:41.719000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 19:01:01.612000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 19:01:01.792000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 19:04:09.197000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:04:09.582000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:04:14.814000 #general @Leavism#2011: ?profile register
+2016-07-06 19:04:14.984000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 19:04:18.983000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 19:04:19.152000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 19:05:23.728000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:05:24.005000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:05:27.835000 #general @Leavism#2011: ?profile register
+2016-07-06 19:05:27.936000 #general @Test-Bot#5202: `Error in command 'profile register' - TypeError: __new__() got an unexpected keyword argument 'ships'`
+2016-07-06 19:06:04.932000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:06:05.276000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:06:10.704000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:06:10.781000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:06:13.555000 #general @Leavism#2011: ?profile register
+2016-07-06 19:06:13.662000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 19:06:57.537000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:06:58.101000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:07:01.163000 #general @Leavism#2011: ?profile register
+2016-07-06 19:07:01.357000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 19:07:14.482000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:07:14.725000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:07:18.924000 #general @Leavism#2011: ?profile register
+2016-07-06 19:07:19.105000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 19:07:31.599000 #general @Leavism#2011: ?proset shipadd 1
+2016-07-06 19:07:31.838000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 19:15:11.288000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:15:11.713000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:15:16.510000 #general @Leavism#2011: ?proset shipadd adder
+2016-07-06 19:15:16.967000 #general @Test-Bot#5202: ```
+?proset shipadd <ship>
+
+```
+2016-07-06 19:15:50.427000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:15:51.765000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:15:54.674000 #general @Leavism#2011: ?proset shipadd adder
+2016-07-06 19:15:55.194000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 19:19:44.903000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:19:45.585000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:19:50.246000 #general @Leavism#2011: ?profile register
+2016-07-06 19:19:50.445000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 19:19:58.503000 #general @Leavism#2011: ?proset shipadd yo
+2016-07-06 19:19:59.032000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 19:21:11.511000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:21:12.636000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:21:15.717000 #general @Leavism#2011: ?proset shipadd yo
+2016-07-06 19:21:16.215000 #general @Test-Bot#5202: `Error in command 'proset shipadd' - TypeError: tuple indices must be integers or slices, not str`
+2016-07-06 19:21:56.532000 #general @Leavism#2011: ?proset location fsdakfdljkskljfsda,ffasjkhlfdkjhfdsa,fajkh
+2016-07-06 19:21:57.096000 #general @Test-Bot#5202: You've set your location/timezone to fsdakfdljkskljfsda,ffasjkhlfdkjhfdsa,fajkh. **Please only your state/country/timezone. Never give out your address. __I repeat: Never give out your address__**
+2016-07-06 19:22:08.951000 #general @Leavism#2011: ?proset location faidjiosdfj asiodjfsdoifjas oisdjfas dofij
+2016-07-06 19:22:09.099000 #general @Test-Bot#5202: You've set your location/timezone to faidjiosdfj asiodjfsdoifjas oisdjfas dofij. **Please only your state/country/timezone. Never give out your address. __I repeat: Never give out your address__**
+2016-07-06 19:36:50.494000 #general @Leavism#2011: ?profile location
+2016-07-06 19:36:51.010000 #general @Test-Bot#5202: @Leavism Your location/timezone is at: _____
+2016-07-06 19:37:44.416000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:37:45.276000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:37:48.045000 #general @Leavism#2011: ?profile ships
+2016-07-06 19:37:48.514000 #general @Test-Bot#5202: ```
+?profile
+
+Accounts operations
+
+Commands:
+  trade      Shows combat rank of user.
+  register   Registers an account at the Simbad profile
+  combat     Shows combat rank of user.
+  explore    Shows combat rank of user.
+  powerplay  Shows user's powerplay allegiance
+  superpower Shows user's superpower allegiance
+  location   Shows cmdr general location and timezone
+  info       Displays all info from user's profile.
+  cmdr       Shows cmdr name of users.
+  assets     Shows assets of user.
+
+Type ?profile command for more info on a command.
+You can also type ?profile category for more info on a category.
+```
+2016-07-06 19:37:59.678000 #general @Leavism#2011: ?proset shipadd YOYOYOYOYOOY
+2016-07-06 19:37:59.919000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  trade      Set combat rank.
+  ship       List your ships!
+  explore    Set combat rank.
+  emp        Set Empire Navy Rank
+  fed        Set Federal Navy Rank
+  assets     Sets current assets of user's profile account. Do not use commas.
+  superpower Set superpower allegiance.
+  location   Set your location/timezone.
+  powerplay  Set powerplay allegiance.
+  cmdr       Sets CMDR name of user's profile account
+  combat     Set combat rank.
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 19:38:09.903000 #general @Leavism#2011: ?proset ship yoyoyoyooyoy
+2016-07-06 19:38:10.507000 #general @Test-Bot#5202: `Error in command 'proset ship' - AttributeError: 'Accounts' object has no attribute 'set_ship'`
+2016-07-06 19:38:34.390000 #general @Leavism#2011: ?reload profile
+2016-07-06 19:38:34.688000 #general @Test-Bot#5202: Module reloaded.
+2016-07-06 19:38:40.268000 #general @Leavism#2011: ?proset ship yoyoyoyoyoyo
+2016-07-06 19:38:40.807000 #general @Test-Bot#5202: You've set your ship list to: yoyoyoyoyoyo
+2016-07-06 20:20:01.126000 #general @Leavism#2011: ?unload all
+2016-07-06 20:20:01.298000 #general @Test-Bot#5202: All cogs are now unloaded.
+2016-07-06 20:28:14.405000 #general @\U0001f427MitchGuy#7046: I'm here
+2016-07-06 20:28:15.213000 #general @\U0001f427MitchGuy#7046: \U0001f61b
+2016-07-06 20:28:20.731000 #general @\U0001f427MitchGuy#7046: I just mute this chat bc spam
+2016-07-06 20:28:22.739000 #general @Leavism#2011: NAH GO PLAY OVERWATCH
+2016-07-06 20:28:29.375000 #general @Leavism#2011: ok
+2016-07-06 20:28:37.917000 #general @Leavism#2011: i've introduced a profile feature
+2016-07-06 20:28:44.066000 #general @Leavism#2011: and logging channels
+2016-07-06 20:28:47.226000 #general @Leavism#2011: and a mention tracker
+2016-07-06 20:28:51.318000 #general @\U0001f427MitchGuy#7046: Ohhhhhhhhhhhhhhhhh
+2016-07-06 20:28:56.461000 #general @Leavism#2011: so people don't have to scroll to look where when they've been mentione
+2016-07-06 20:29:01.913000 #general @Leavism#2011: best for last \U0001f609
+2016-07-06 20:29:05.585000 #general @Leavism#2011: demontrastion time!
+2016-07-06 20:29:11.839000 #general @Leavism#2011: ?unload all
+2016-07-06 20:29:12.534000 #general @Test-Bot#5202: All cogs are now unloaded.
+2016-07-06 20:29:16.176000 #general @Leavism#2011: ?load profile
+2016-07-06 20:29:16.357000 #general @Test-Bot#5202: Module enabled.
+2016-07-06 20:29:17.771000 #general @Leavism#2011: ?help
+2016-07-06 20:29:18.034000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+Owner:
+  shutdown Shuts down Simbad Bot
+  load     Loads a module
+  modset   Manages server administration settings.
+  unload   Unloads a module
+  logger   Toggles logging for a channel
+  uptime   Shows Simbad Bot's uptime
+  reload   Reloads a module
+  set      Changes Simbad Bot's global settings.
+Profile:
+  profile  Accounts operations
+  proset   Profile settings
+\u200bNo Category:
+  help     Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 20:29:21.728000 #general @Leavism#2011: ?profile register
+2016-07-06 20:29:21.923000 #general @Test-Bot#5202: @Leavism Account opened.
+2016-07-06 20:29:25.809000 #general @Leavism#2011: ?profile info
+2016-07-06 20:29:26.272000 #general @Test-Bot#5202: @Leavism 
+**CMDR Name: **_____
+**Current Assets: **0
+**Powerplay Allegiance: **_____
+**Superpower Allegiance: **_____
+**Federal Navy Rank: ** None
+**Empire Navy Rank: ** None
+**Combat Rank: ** _____
+**Trade Rank: ** _____
+**Exploration Rank: ** _____
+**Ships: ** None
+
+2016-07-06 20:29:33.554000 #general @Leavism#2011: ?proset cmdr Leavism
+2016-07-06 20:29:33.928000 #general @Test-Bot#5202: You've set your CMDR name to Leavism. **If you have more than one word in your CMDR name, put it in double quotes.**
+2016-07-06 20:29:42.792000 #general @Leavism#2011: ?proset assets 2800000000
+2016-07-06 20:29:42.967000 #general @Test-Bot#5202: Leavism's credits have been set to 2,800,000,000
+2016-07-06 20:29:51.565000 #general @Leavism#2011: ?proset powerplay
+2016-07-06 20:29:51.746000 #general @Test-Bot#5202: ```
+?proset powerplay <powerplay_number>
+
+Set powerplay allegiance.
+
+1. A. Lavigny-Duval
+2. Aisling Duval
+3. Archon Delaine
+4. Denton Patreus
+5. Edmund Mahon
+6. Felicia Winters
+7. Li Yong-Rui
+8. Pranav Antal
+9. Zachary Hudson
+10. Zemina Torval
+
+```
+2016-07-06 20:29:58.912000 #general @Leavism#2011: ?proset powerplay 2
+2016-07-06 20:29:59.105000 #general @Test-Bot#5202: You've set your powerplay allegiance to Aisling Duval
+2016-07-06 20:30:02.597000 #general @Leavism#2011: ?proset superpower
+2016-07-06 20:30:03.054000 #general @Test-Bot#5202: ```
+?proset superpower <superpower_number>
+
+Set superpower allegiance.
+
+1. Independent
+2. Alliance
+3. Empire
+4. Federation
+
+```
+2016-07-06 20:30:08.670000 #general @Leavism#2011: ?proset superpower 3
+2016-07-06 20:30:09.087000 #general @Test-Bot#5202: You've set your superpower allegiance to Empire.
+2016-07-06 20:30:18.354000 #general @Leavism#2011: ?proset fedrank
+2016-07-06 20:30:18.613000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  assets     Sets current assets of user's profile account. Do not use commas.
+  fed        Set Federal Navy Rank
+  explore    Set combat rank.
+  powerplay  Set powerplay allegiance.
+  superpower Set superpower allegiance.
+  trade      Set combat rank.
+  ship       List your ships!
+  cmdr       Sets CMDR name of user's profile account
+  location   Set your location/timezone.
+  emp        Set Empire Navy Rank
+  combat     Set combat rank.
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 20:30:22.579000 #general @Leavism#2011: ?proset fed
+2016-07-06 20:30:23.023000 #general @Test-Bot#5202: ```
+?proset fed <fedrank_number>
+
+Set Federal Navy Rank
+
+0. None
+1. Recruit
+2. Cadet
+3. Midshipman
+4. Petty Officer
+5. Chief Petty Officer
+6. Warrant Officer
+7. Ensign
+8. Lieutenant
+9. Lieutenant Commander
+10. Post Commander
+11. Post Captain
+12. Rear Admiral
+13. Vice Admiral
+14. Admiral
+
+```
+2016-07-06 20:30:27.298000 #general @Leavism#2011: ?proset fed 14
+2016-07-06 20:30:27.475000 #general @Test-Bot#5202: You've set your Federation Navy rank to Admiral.
+2016-07-06 20:30:30.303000 #general @Leavism#2011: ?proset emp
+2016-07-06 20:30:30.590000 #general @Test-Bot#5202: ```
+?proset emp <emprank_number>
+
+Set Empire Navy Rank
+
+0. None
+1. Outsider
+2. Serf
+3. Master
+4. Squire
+5. Knight
+6. Lord
+7. Baron
+8. Viscount
+9. Count
+10. Earl
+11. Marquis
+12. Duke
+13. Prince
+14. King
+
+```
+2016-07-06 20:30:34.380000 #general @Leavism#2011: ?proset emp 12
+2016-07-06 20:30:34.593000 #general @Test-Bot#5202: You've set your Empire Navy rank to Duke.
+2016-07-06 20:30:48.092000 #general @Leavism#2011: ?proset combat
+2016-07-06 20:30:48.276000 #general @Test-Bot#5202: ```
+?proset combat <combat_number>
+
+Set combat rank.
+
+1. Harmless
+2. Mostly Harmless
+3. Novice
+4. Competent
+5. Expert
+6. Master
+7. Dangerous
+8. Deadly
+9. Elite
+
+```
+2016-07-06 20:30:54.244000 #general @Leavism#2011: ?proset combat 7
+2016-07-06 20:30:54.662000 #general @Test-Bot#5202: You've set your combat rank to Dangerous.
+2016-07-06 20:30:57.632000 #general @Leavism#2011: ?proset trade 12
+2016-07-06 20:31:01.153000 #general @Leavism#2011: ?proset trade 9
+2016-07-06 20:31:01.404000 #general @Test-Bot#5202: You've set your combat rank to Elite.
+2016-07-06 20:31:06.841000 #general @Leavism#2011: ?proset explore 9
+2016-07-06 20:31:06.956000 #general @Test-Bot#5202: You've set your exploration rank to Elite.
+2016-07-06 20:31:19.739000 #general @Leavism#2011: ?proset location PST
+2016-07-06 20:31:20.095000 #general @Test-Bot#5202: You've set your location/timezone to PST. **Please only your state/country/timezone. Never give out your address. __I repeat: Never give out your address__**
+2016-07-06 20:31:56.427000 #general @Leavism#2011: ?proset ships I have the adder, hauler, sidewinder, cutter, corvette, anaconda, etc. Basically I have every ship and enough money to buy them twice.
+2016-07-06 20:31:57.140000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  assets     Sets current assets of user's profile account. Do not use commas.
+  fed        Set Federal Navy Rank
+  explore    Set combat rank.
+  powerplay  Set powerplay allegiance.
+  superpower Set superpower allegiance.
+  trade      Set combat rank.
+  ship       List your ships!
+  cmdr       Sets CMDR name of user's profile account
+  location   Set your location/timezone.
+  emp        Set Empire Navy Rank
+  combat     Set combat rank.
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 20:32:10.341000 #general @Leavism#2011: ?proset ship I have the adder, hauler, sidewinder, cutter, corvette, anaconda, etc. Basically I have every ship and enough money to buy them twice.
+2016-07-06 20:32:10.736000 #general @Test-Bot#5202: You've set your ship list to: I have the adder, hauler, sidewinder, cutter, corvette, anaconda, etc. Basically I have every ship and enough money to buy them twice.
+2016-07-06 20:32:15.558000 #general @Leavism#2011: ?profile info
+2016-07-06 20:32:15.748000 #general @Test-Bot#5202: @Leavism 
+**CMDR Name: **Leavism
+**Current Assets: **2,800,000,000
+**Powerplay Allegiance: **Aisling Duval
+**Superpower Allegiance: **Empire
+**Federal Navy Rank: ** Admiral
+**Empire Navy Rank: ** Duke
+**Combat Rank: ** Dangerous
+**Trade Rank: ** Elite
+**Exploration Rank: ** Elite
+**Ships: ** I have the adder, hauler, sidewinder, cutter, corvette, anaconda, etc. Basically I have every ship and enough money to buy them twice.
+
+2016-07-06 20:32:30.492000 #general @Leavism#2011: @\U0001f427MitchGuy GOT IT?
+2016-07-06 20:32:40.716000 #general @Leavism#2011: Hi @Corv'iin
+2016-07-06 20:32:41.993000 #general @Corv'iin#2783: wat
+2016-07-06 20:32:46.325000 #general @Leavism#2011: ?profile info
+2016-07-06 20:32:46.745000 #general @Test-Bot#5202: @Leavism 
+**CMDR Name: **Leavism
+**Current Assets: **2,800,000,000
+**Powerplay Allegiance: **Aisling Duval
+**Superpower Allegiance: **Empire
+**Federal Navy Rank: ** Admiral
+**Empire Navy Rank: ** Duke
+**Combat Rank: ** Dangerous
+**Trade Rank: ** Elite
+**Exploration Rank: ** Elite
+**Ships: ** I have the adder, hauler, sidewinder, cutter, corvette, anaconda, etc. Basically I have every ship and enough money to buy them twice.
+
+2016-07-06 20:32:51.271000 #general @Leavism#2011: I made us a profile feature
+2016-07-06 20:33:00.023000 #general @Corv'iin#2783: ?profile info
+2016-07-06 20:33:00.442000 #general @Test-Bot#5202: That does not have a profile yet.
+2016-07-06 20:33:04.002000 #general @Corv'iin#2783: FUCK YOU BOT
+2016-07-06 20:33:10.698000 #general @Leavism#2011: fucking cause you need to register
+2016-07-06 20:33:14.990000 #general @Leavism#2011: do ?profile register
+2016-07-06 20:33:21.078000 #general @Corv'iin#2783: ?profile register
+2016-07-06 20:33:21.341000 #general @Test-Bot#5202: @Corv'iin Account opened.
+2016-07-06 20:34:25.924000 #general @Leavism#2011: do ?proset to set your info
+2016-07-06 20:34:38.392000 #general @Corv'iin#2783: ?proset
+2016-07-06 20:34:38.641000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  assets     Sets current assets of user's profile account. Do not use commas.
+  fed        Set Federal Navy Rank
+  explore    Set combat rank.
+  powerplay  Set powerplay allegiance.
+  superpower Set superpower allegiance.
+  trade      Set combat rank.
+  ship       List your ships!
+  cmdr       Sets CMDR name of user's profile account
+  location   Set your location/timezone.
+  emp        Set Empire Navy Rank
+  combat     Set combat rank.
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 20:34:50.474000 #general @Corv'iin#2783: uhhh
+2016-07-06 20:34:59.415000 #general @Leavism#2011: yup now pick what you want to set
+2016-07-06 20:35:05.421000 #general @Leavism#2011: ?proset assets 290000000
+2016-07-06 20:35:05.743000 #general @Test-Bot#5202: Leavism's credits have been set to 290,000,000
+2016-07-06 20:36:41.191000 #general @Corv'iin#2783: ?proset assests 1320776423
+2016-07-06 20:36:41.759000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  assets     Sets current assets of user's profile account. Do not use commas.
+  fed        Set Federal Navy Rank
+  explore    Set combat rank.
+  powerplay  Set powerplay allegiance.
+  superpower Set superpower allegiance.
+  trade      Set combat rank.
+  ship       List your ships!
+  cmdr       Sets CMDR name of user's profile account
+  location   Set your location/timezone.
+  emp        Set Empire Navy Rank
+  combat     Set combat rank.
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 20:36:49.036000 #general @Leavism#2011: come on spell it right
+2016-07-06 20:37:05.905000 #general @Corv'iin#2783: ?proset assets 1320776423
+2016-07-06 20:37:06.395000 #general @Test-Bot#5202: Corv'iin's credits have been set to 1,320,776,423
+2016-07-06 20:37:09.331000 #general @Corv'iin#2783: listen
+2016-07-06 20:37:16.331000 #general @Corv'iin#2783: keyboard autocorrect fucks shit up
+2016-07-06 20:37:22.701000 #general @Leavism#2011: hahaha
+2016-07-06 20:37:30.576000 #general @Leavism#2011: ok we also now have a mention tracker
+2016-07-06 20:37:38.625000 #general @Leavism#2011: so you don't have to scroll to see who mentioned you
+2016-07-06 20:37:40.204000 #general @Leavism#2011: anymore
+2016-07-06 20:37:47.624000 #general @Leavism#2011: unless they tagged you by role.
+2016-07-06 20:37:50.319000 #general @Leavism#2011: then ya screw
+2016-07-06 20:37:58.223000 #general @Leavism#2011: but a regular @Corv'iin tag will track
+2016-07-06 20:38:04.437000 #general @Leavism#2011: ?load mention
+2016-07-06 20:38:04.770000 #general @Test-Bot#5202: Module enabled.
+2016-07-06 20:38:10.410000 #general @Leavism#2011: you also have to register for tracking
+2016-07-06 20:38:13.642000 #general @Leavism#2011: ?mention
+2016-07-06 20:38:14.418000 #general @Test-Bot#5202: ```
+?mention
+
+Saves your mentions when you're not online.
+
+Commands:
+  unregister Unregister yourself from mention tracking
+  read       Read all mentions since you've been away.
+  register   Register yourself for mention tracking
+
+Type ?mention command for more info on a command.
+You can also type ?mention category for more info on a category.
+```
+2016-07-06 20:38:17.997000 #general @Leavism#2011: ?mention register
+2016-07-06 20:38:18.562000 #general @Test-Bot#5202: @Leavism, you're already registered.
+2016-07-06 20:38:25.774000 #general @Corv'iin#2783: ?proset powerplay Aisling Duval
+2016-07-06 20:38:30.559000 #general @Corv'iin#2783: the fuck
+2016-07-06 20:38:31.693000 #general @Corv'iin#2783: omg
+2016-07-06 20:38:37.427000 #general @Corv'iin#2783: ?mention register
+2016-07-06 20:38:37.741000 #general @Leavism#2011: ?proset powerplay
+2016-07-06 20:38:37.705000 #general @Test-Bot#5202: @Corv'iin, thanks for registering.
+2016-07-06 20:38:38.154000 #general @Test-Bot#5202: ```
+?proset powerplay <powerplay_number>
+
+Set powerplay allegiance.
+
+1. A. Lavigny-Duval
+2. Aisling Duval
+3. Archon Delaine
+4. Denton Patreus
+5. Edmund Mahon
+6. Felicia Winters
+7. Li Yong-Rui
+8. Pranav Antal
+9. Zachary Hudson
+10. Zemina Torval
+
+```
+2016-07-06 20:38:52.028000 #general @Leavism#2011: @Corv'iin SCRUB LUB
+2016-07-06 20:38:59.813000 #general @Leavism#2011: @Corv'iin RUB MUB
+2016-07-06 20:39:03.712000 #general @Corv'iin#2783: ?proset powerplay_2
+2016-07-06 20:39:04.173000 #general @Test-Bot#5202: ```
+?proset
+
+Profile settings
+
+Commands:
+  assets     Sets current assets of user's profile account. Do not use commas.
+  fed        Set Federal Navy Rank
+  explore    Set combat rank.
+  powerplay  Set powerplay allegiance.
+  superpower Set superpower allegiance.
+  trade      Set combat rank.
+  ship       List your ships!
+  cmdr       Sets CMDR name of user's profile account
+  location   Set your location/timezone.
+  emp        Set Empire Navy Rank
+  combat     Set combat rank.
+
+Type ?proset command for more info on a command.
+You can also type ?proset category for more info on a category.
+```
+2016-07-06 20:39:04.368000 #general @Leavism#2011: now do ?mention read
+2016-07-06 20:39:15.272000 #general @Leavism#2011: no underscore honey
+2016-07-06 20:39:24.957000 #general @Corv'iin#2783: IT SAID IT IN THE THING, NERD
+2016-07-06 20:39:31.886000 #general @Corv'iin#2783: ?proset powerplay 2
+2016-07-06 20:39:32.374000 #general @Test-Bot#5202: You've set your powerplay allegiance to Aisling Duval
+2016-07-06 20:39:43.221000 #general @Leavism#2011: no do ?mention read
+2016-07-06 20:39:48.432000 #general @Corv'iin#2783: ?mention read
+2016-07-06 20:39:50.697000 #general @Leavism#2011: since i just tagged you like twice
+2016-07-06 20:40:23.317000 #general @Leavism#2011: ya? @Corv'iin did you get the pm?
+2016-07-06 20:40:27.659000 #general @Corv'iin#2783: yes
+2016-07-06 20:40:52.747000 #general @Leavism#2011: YAAAAAAAAY
+2016-07-06 20:40:56.419000 #general @Leavism#2011: and last but not least
+2016-07-06 20:40:58.892000 #general @Leavism#2011: it a channel logger
+2016-07-06 20:41:03.998000 #general @Leavism#2011: logs every message sent in a chat
+2016-07-06 20:41:06.551000 #general @Leavism#2011: ?load logger
+2016-07-06 20:41:07.403000 #general @Test-Bot#5202: That module could not be found.
+2016-07-06 20:41:10.818000 #general @Corv'iin#2783: lol
+2016-07-06 20:41:12.924000 #general @Leavism#2011: shit i forgot what i called it
+2016-07-06 20:41:22.918000 #general @Leavism#2011: ?help
+2016-07-06 20:41:23.035000 #general @Test-Bot#5202: ```
+Simbad Bot - Discord bot made by Leavism
+
+MentionTracker:
+  mentionset Manage mentiontracker settings
+  mention    Saves your mentions when you're not online.
+Owner:
+  shutdown   Shuts down Simbad Bot
+  load       Loads a module
+  modset     Manages server administration settings.
+  unload     Unloads a module
+  logger     Toggles logging for a channel
+  uptime     Shows Simbad Bot's uptime
+  reload     Reloads a module
+  set        Changes Simbad Bot's global settings.
+Profile:
+  profile    Accounts operations
+  proset     Profile settings
+\u200bNo Category:
+  help       Shows this message.
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
+```
+2016-07-06 20:41:28.260000 #general @Leavism#2011: ?logger
+2016-07-06 20:41:28.472000 #general @Corv'iin#2783: i'm used to nightbot on twitch with the !command system
+2016-07-06 20:41:28.754000 #general @Test-Bot#5202: Logging enabled for #general
+2016-07-06 20:41:59.140000 #general @Leavism#2011: ?profile info @Corv'iin
+2016-07-06 20:41:59.631000 #general @Test-Bot#5202: 
+**CMDR Name: **_____
+**Current Assets: **1,320,776,423
+**Powerplay Allegiance: **Aisling Duval
+**Superpower Allegiance: **_____
+**Federal Navy Rank: ** None
+**Empire Navy Rank: ** None
+**Combat Rank: ** _____
+**Trade Rank: ** _____
+**Exploration Rank: ** _____
+**Ships: ** None
+
+2016-07-06 20:42:02.877000 #general @Leavism#2011: Nice
+2016-07-06 20:45:53.981000 #general @Leavism#2011: alright im off to work

@@ -1,0 +1,34 @@
+{
+    "195750056920481793" : {
+        "130604133978865664" : {
+            "assets" : 290000000,
+            "cmdr" : "Leavism",
+            "combat" : "Dangerous",
+            "created_at" : "2016-07-06 13:29:20",
+            "emprank" : "Duke",
+            "explore" : "Elite",
+            "fedrank" : "Admiral",
+            "location" : "PST",
+            "name" : "Leavism",
+            "powerplay" : "Aisling Duval",
+            "ships" : "I have the adder, hauler, sidewinder, cutter, corvette, anaconda, etc. Basically I have every ship and enough money to buy them twice.",
+            "superpower" : "Empire",
+            "trade" : "Elite"
+        },
+        "95567430901825536" : {
+            "assets" : 1320776423,
+            "cmdr" : "_____",
+            "combat" : "_____",
+            "created_at" : "2016-07-06 13:33:19",
+            "emprank" : "None",
+            "explore" : "_____",
+            "fedrank" : "alright im None",
+            "location" : "____",
+            "name" : "Corv'iin",
+            "powerplay" : "Aisling Duval",
+            "ships" : "None",
+            "superpower" : "_____",
+            "trade" : "_____"
+        }
+    }
+}

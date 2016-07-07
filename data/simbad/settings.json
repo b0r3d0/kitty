@@ -1,0 +1,14 @@
+{
+    "EMAIL" : "MTk1NzQ5NzY3MTc3ODMwNDAw.Clyfgw.iw-hqcE8JM3gz7RCMVgHd2kML5M",
+    "LOGIN_TYPE" : "token",
+    "OWNER" : "130604133978865664",
+    "PASSWORD" : "",
+    "PREFIXES" : [
+        "?"
+    ],
+    "default" : {
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "Moderator",
+        "RECRUITER_ROLE" : "Recruiter"
+    }
+}

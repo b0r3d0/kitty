@@ -1,0 +1,23 @@
+{Leavism
+#2011
+
+Change LogDownload Apps
+general
+
+
+
+
+LOAD MORE MESSAGES
+
+    "EMAIL" : "MTgxMTI4Mjk0OTExOTY3MjMz.Ck8qMA.d4kf7rEF3K28XlU3i_7vj4pI910",
+    "LOGIN_TYPE" : "token",
+    "OWNER" : "130604133978865664",
+    "PASSWORD" : "",
+    "PREFIXES" : [
+        "?"
+    ],
+    "default" : {
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "Moderator"
+    }
+}

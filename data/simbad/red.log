@@ -1,0 +1,35 @@
+[23/06/2016 23:31] ERROR simbad <module> 393: Traceback (most recent call last):
+  File "simbad.py", line 379, in <module>
+    loop.run_until_complete(main())
+  File "C:\Users\ghuyd\AppData\Local\Programs\Python\Python35-32\lib\asyncio\base_events.py", line 337, in run_until_complete
+    return future.result()
+  File "C:\Users\ghuyd\AppData\Local\Programs\Python\Python35-32\lib\asyncio\futures.py", line 274, in result
+    raise self._exception
+  File "C:\Users\ghuyd\AppData\Local\Programs\Python\Python35-32\lib\asyncio\tasks.py", line 239, in _step
+    result = coro.send(None)
+  File "simbad.py", line 362, in main
+    owner_cog._token.hidden = True
+AttributeError: 'Owner' object has no attribute '_token'
+
+[23/06/2016 23:32] ERROR simbad <module> 393: Traceback (most recent call last):
+  File "simbad.py", line 379, in <module>
+    loop.run_until_complete(main())
+  File "C:\Users\ghuyd\AppData\Local\Programs\Python\Python35-32\lib\asyncio\base_events.py", line 337, in run_until_complete
+    return future.result()
+  File "C:\Users\ghuyd\AppData\Local\Programs\Python\Python35-32\lib\asyncio\futures.py", line 274, in result
+    raise self._exception
+  File "C:\Users\ghuyd\AppData\Local\Programs\Python\Python35-32\lib\asyncio\tasks.py", line 239, in _step
+    result = coro.send(None)
+  File "simbad.py", line 362, in main
+    owner_cog._token.hidden = True
+AttributeError: 'Owner' object has no attribute '_token'
+
+[23/06/2016 23:43] ERROR simbad on_command_error 87: NoPrivateMessage
+Traceback (most recent call last):
+  File "C:\Users\ghuyd\AppData\Local\Programs\Python\Python35-32\lib\site-packages\discord\ext\commands\bot.py", line 654, in process_commands
+    yield from command.invoke(ctx)
+  File "C:\Users\ghuyd\AppData\Local\Programs\Python\Python35-32\lib\site-packages\discord\ext\commands\core.py", line 628, in invoke
+    self._verify_checks(ctx)
+  File "C:\Users\ghuyd\AppData\Local\Programs\Python\Python35-32\lib\site-packages\discord\ext\commands\core.py", line 396, in _verify_checks
+    raise NoPrivateMessage('This command cannot be used in private messages.')
+discord.ext.commands.errors.NoPrivateMessage: This command cannot be used in private messages.
