@@ -60,7 +60,7 @@ class Animalsounds:
         kill = 8
         await self.sound_play(context, animal,kill)
 
-    @commands.command(no_pm=True, pass_context=True, name='nootnoot', aliases=['pingu'],hiddent=True)
+    @commands.command(no_pm=True, pass_context=True, name='nootnoot', aliases=['pingu'],hidden=True)
     async def _meow(self, context):
         animal = 'pingu'
         kill = 1
