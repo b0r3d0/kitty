@@ -58,6 +58,7 @@ class Animalsounds:
     async def _cena(self, context):
         animal = 'cena'
         kill = 8
+        await self.bot.say("If someone is abusing the sound commands, please report to Leavism. **You can right click the bot and adjust it's volume to 0, effectively muting him.**")
         await self.sound_play(context, animal,kill)
 
     @commands.command(no_pm=True, pass_context=True, name='nootnoot', aliases=['pingu'],hidden=True)
