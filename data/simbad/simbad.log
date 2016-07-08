@@ -3652,3 +3652,17 @@ AttributeError: 'Accounts' object has no attribute 'set_ship'
 [06/07/2016 13:32] INFO profile _ship 517: Leavism(130604133978865664) set their ship listing to I have the adder, hauler, sidewinder, cutter, corvette, anaconda, etc. Basically I have every ship and enough money to buy them twice.
 [06/07/2016 13:35] INFO profile _assets 728: Leavism(130604133978865664) set 290000000 credits to Leavism (130604133978865664)
 [06/07/2016 13:37] INFO profile _assets 728: Corv'iin(95567430901825536) set 1320776423 credits to Corv'iin (95567430901825536)
+[08/07/2016 03:38] ERROR Simbad on_command_error 77: Exception in command 'johncena'
+Traceback (most recent call last):
+  File "C:\Users\ghuyd\AppData\Local\Programs\Python\Python35-32\lib\site-packages\discord\ext\commands\core.py", line 48, in wrapped
+    ret = yield from coro(*args, **kwargs)
+  File "C:\Users\ghuyd\OneDrive\Documents\GitHub\kitty\cogs\sounds.py", line 62, in _cena
+    await self.delete_message(message)
+AttributeError: 'Animalsounds' object has no attribute 'delete_message'
+[08/07/2016 03:41] ERROR Simbad on_command_error 77: Exception in command 'johncena'
+Traceback (most recent call last):
+  File "C:\Users\ghuyd\AppData\Local\Programs\Python\Python35-32\lib\site-packages\discord\ext\commands\core.py", line 48, in wrapped
+    ret = yield from coro(*args, **kwargs)
+  File "C:\Users\ghuyd\OneDrive\Documents\GitHub\kitty\cogs\sounds.py", line 61, in _cena
+    channel = self.message.channel
+AttributeError: 'Animalsounds' object has no attribute 'message'

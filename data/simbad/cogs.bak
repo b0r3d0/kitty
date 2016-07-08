@@ -16,6 +16,7 @@
     "cogs.owner" : false,
     "cogs.profile" : false,
     "cogs.rss" : true,
+    "cogs.sounds" : true,
     "cogs.streams" : false,
     "cogs.trivia" : false
 }
