@@ -581,7 +581,7 @@ class Profile:
             for x, y in tlist:
                 if trade_number == x:
                     self.profile.set_trade(author, y)
-                    await self.bot.say("You've set your combat rank to {}.".format(y))
+                    await self.bot.say("You've set your trade rank to {}.".format(y))
         except NoAccount:
             await self.bot.say("User does not have a profile account yet.")
 
