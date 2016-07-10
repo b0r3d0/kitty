@@ -87,7 +87,7 @@ class Animalsounds:
     @commands.command(no_pm=True, pass_context=True, name='meeseeks', aliases=['mee6'],hidden=True)
     async def _meeseeks(self, context):
         animal = 'meeseeks'
-        kill = 5
+        kill = 4
         await self.sound_play(context, animal,kill)
 
     @commands.command(no_pm=True, pass_context=True, name='weed', aliases=['weedeveryday'],hidden=True)
