@@ -60,7 +60,7 @@ class Animalsounds:
         kill = 8
         await self.sound_play(context, animal,kill)
 
-    @commands.command(no_pm=True, pass_context=True, name='nootnoot', aliases=['pingu'],hidden=True)
+    @commands.command(no_pm=True, pass_context=True, name='nootnoot', aliases=['noot'],hidden=True)
     async def _pingu(self, context):
         animal = 'pingu'
         kill = 2
@@ -69,6 +69,12 @@ class Animalsounds:
     @commands.command(no_pm=True, pass_context=True, name='triple', aliases=['ohbaby'],hidden=True)
     async def _triple(self, context):
         animal = 'triple'
+        kill = 5
+        await self.sound_play(context, animal,kill)
+
+    @commands.command(no_pm=True, pass_context=True, name='horn', aliases=['airhorn'],hidden=True)
+    async def _horn(self, context):
+        animal = 'horn'
         kill = 5
         await self.sound_play(context, animal,kill)
 
