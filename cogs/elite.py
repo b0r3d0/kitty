@@ -57,7 +57,7 @@ class Elite():
     @checks.recruiter_or_permissions(manage_messages=True)
     async def _member_add(self, cmdra: str):
         if cmdra.lower() not in self.cmdr_list["members"]:
-            self.cmdr_list["members"].append(cmdra)
+            self.cmdr_list["members"].append(cmdra.lower())
             fileIO("data/mod/cmdr.json","save", self.cmdr_list)
             await self.bot.say("CMDR " + cmdra + " has been added to the command.")
 
