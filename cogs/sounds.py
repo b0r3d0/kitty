@@ -78,6 +78,12 @@ class Animalsounds:
         kill = 5
         await self.sound_play(context, animal,kill)
 
+    @commands.command(no_pm=True, pass_context=True, name='mlghorn', aliases=['mlg'],hidden=True)
+    async def _mlghorn(self, context):
+        animal = 'mlghorn'
+        kill = 5
+        await self.sound_play(context, animal,kill)
+
     async def sound_init(self, server, path):
         sound = [f for f in listdir(path) if isfile(join(path, f))]
         path = '{}{}'.format(path, random.choice(sound))
