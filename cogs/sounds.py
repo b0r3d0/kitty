@@ -123,12 +123,18 @@ class Animalsounds:
     @commands.command(no_pm=True, pass_context=True, name='meow', aliases=['cat'],hidden=True)
     async def _meo(self, context):
         animal = 'meow'
-        kill = 5
+        kill = 4
         await self.sound_play(context, animal,kill)
 
     @commands.command(no_pm=True, pass_context=True, name='whosfab', aliases=['whoisfabulous'],hidden=True)
     async def _whosfab(self, context):
         animal = 'whosfab'
+        kill = 5
+        await self.sound_play(context, animal,kill)
+
+    @commands.command(no_pm=True, pass_context=True, name='intro', aliases=['simbadintro'],hidden=True)
+    async def _intro(self, context):
+        animal = ''
         kill = 5
         await self.sound_play(context, animal,kill)
 
