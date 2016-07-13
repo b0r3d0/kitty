@@ -96,6 +96,42 @@ class Animalsounds:
         kill = 5
         await self.sound_play(context, animal,kill)
 
+    @commands.command(no_pm=True, pass_context=True, name='diefeds', aliases=['diefed'],hidden=True)
+    async def _diefeds(self, context):
+        animal = 'diefeds'
+        kill = 5
+        await self.sound_play(context, animal,kill)
+
+    @commands.command(no_pm=True, pass_context=True, name='dieemps', aliases=['dieemp'],hidden=True)
+    async def _dieemps(self, context):
+        animal = 'dieemps'
+        kill = 5
+        await self.sound_play(context, animal,kill)
+
+    @commands.command(no_pm=True, pass_context=True, name='moltar', aliases=['ranmoltar'],hidden=True)
+    async def _moltar(self, context):
+        animal = 'moltar'
+        kill = 10
+        await self.sound_play(context, animal,kill)
+
+    @commands.command(no_pm=True, pass_context=True, name='dirtydock', aliases=['dirtyship'],hidden=True)
+    async def _dirtydock(self, context):
+        animal = 'dirtydock'
+        kill = 5
+        await self.sound_play(context, animal,kill)
+
+    @commands.command(no_pm=True, pass_context=True, name='meow', aliases=['cat'],hidden=True)
+    async def _meo(self, context):
+        animal = 'meow'
+        kill = 5
+        await self.sound_play(context, animal,kill)
+
+    @commands.command(no_pm=True, pass_context=True, name='whosfab', aliases=['whoisfabulous'],hidden=True)
+    async def _whosfab(self, context):
+        animal = 'whosfab'
+        kill = 5
+        await self.sound_play(context, animal,kill)
+
     async def sound_init(self, server, path):
         sound = [f for f in listdir(path) if isfile(join(path, f))]
         path = '{}{}'.format(path, random.choice(sound))
