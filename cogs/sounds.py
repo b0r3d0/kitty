@@ -111,7 +111,7 @@ class Animalsounds:
     @commands.command(no_pm=True, pass_context=True, name='moltar', aliases=['ranmoltar'],hidden=True)
     async def _moltar(self, context):
         animal = 'moltar'
-        kill = 10
+        kill = 6
         await self.sound_play(context, animal,kill)
 
     @commands.command(no_pm=True, pass_context=True, name='dirtydock', aliases=['dirtyship'],hidden=True)
@@ -134,7 +134,7 @@ class Animalsounds:
 
     @commands.command(no_pm=True, pass_context=True, name='intro', aliases=['simbadintro'],hidden=True)
     async def _intro(self, context):
-        animal = ''
+        animal = 'simbad'
         kill = 5
         await self.sound_play(context, animal,kill)
 
